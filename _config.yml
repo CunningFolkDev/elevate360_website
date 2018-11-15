@@ -53,6 +53,9 @@ image: https://elevate360.com/assets/images/seo.png
 logo: https://elevate360.com/assets/images/elevate-logo@2x.png
 twitter:
   username: elevate360NYC
+facebook:
+  app_id: 560591311065650
+  publisher: 1306167409485389
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
