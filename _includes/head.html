@@ -1,3 +1,15 @@
+{% assign is_root = false %}
+{% assign is_blog = false %}
+{% if page.url == '/' %}
+    {% assign is_root = true %}
+{% endif %}
+{% if page.layout == 'post' %}
+    {% assign is_blog = true %}
+{% endif %}
+<title>
+  {{ page.title }}{% if is_blog %} | Blog {% endif %}{% unless is_root %} | {{ site.title }}{% endunless %} – {{ site.seo_subtitle }}
+</title>
+
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,700,700i,900,900i" rel="stylesheet">
 <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 <link rel="icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
