@@ -6,13 +6,7 @@
 
     {% include head.html %}
     {% seo %}
-    {% if page.image %}
-        <meta property="og:image" content="{{ site.url }}{{ page.image.image }}">
-        <meta name="twitter:image:src" content="{{ site.url }}{{ page.image.image }}">
-    {% else %}
-        <meta property="og:image" content="{{ site.url }}/assets/images/seo.png ">
-        <meta name="twitter:image:src" content="{{ site.url }}/assets/images/seo.png ">
-    {% endif %}
+    {% include page_image.html %}
 </head>
 <body>
     {% include header.html %}
