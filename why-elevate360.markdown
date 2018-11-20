@@ -1,13 +1,15 @@
 ---
 title: Why Elevate360?
 date: 2018-10-25 00:41:00 -04:00
-background-image: "/assets/images/why_elevate360_hero@2x.jpg"
-section-image-1: "/assets/images/new-york-438391@2x.jpg"
+background-image: "why_elevate360_hero@2x.jpg"
+section-image-1: "new-york-438391@2x.jpg"
 ---
+{% assign background_image = page.background-image | remove_first: '/uploads/' | url_decode %}
+{% assign section_image_1 = page.section-image-1 | remove_first: '/uploads/' | url_decode %}
 
-{% include mobile_hero.html image=page.background-image message="Let's Talk" %}
+{% include mobile_hero.html image=background_image message="Let's Talk" %}
 
-<section id="homepage_1" class="hero" style="background-image: url('{{ page.background-image }}')">
+<section id="homepage_1" class="hero" style="background-image: url('{% asset '{{ background_image }}' @path %}')">
     <div class="section-content">
         <h1>{{ page.title }}</h1>
         <h2>In short, because we do treatment right.</h2>
@@ -37,5 +39,5 @@ section-image-1: "/assets/images/new-york-438391@2x.jpg"
         We created Elevate360 to ensure that patients and their families have access to professionals who can provide information and education about available treatments, and can answer questions about which are most effective, and which will work best for them.
         </p>
     </div>
-    <div class="side-image" style="background-image:url('{{ page.section-image-1 }}')"></div>
+    <div class="side-image" style="background-image: url('{% asset '{{ section_image_1 }}' @path %}')"></div>
 </section>

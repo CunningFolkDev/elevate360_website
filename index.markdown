@@ -2,15 +2,19 @@
 title: Welcome to Elevate360 Wellness
 date: 2018-08-26 01:08:00 -04:00
 background-image: "/uploads/sarah-dorweiler-211779-unsplash@2x.png"
-section-image-1: "/assets/images/aaron-burson-242126-unsplash@2x.jpg"
-section-image-2: "/assets/images/c-17676499-f-39-c-9-e-667-c-88-b-1035-af-430-f-copy@2x.jpg"
-section-image-3: "/assets/images/josh-couch-475118-unsplash@2x.jpg"
+section-image-1: "aaron-burson-242126-unsplash@2x.jpg"
+section-image-2: "c-17676499-f-39-c-9-e-667-c-88-b-1035-af-430-f-copy@2x.jpg"
+section-image-3: "josh-couch-475118-unsplash@2x.jpg"
 layout: default
 ---
+{% assign background_image = page.background-image | remove_first: '/uploads/' | url_decode %}
+{% assign section_image_1 = page.section-image-1 | remove_first: '/uploads/' | url_decode %}
+{% assign section_image_2 = page.section-image-2 | remove_first: '/uploads/' | url_decode %}
+{% assign section_image_3 = page.section-image-3 | remove_first: '/uploads/' | url_decode %}
 
-{% include mobile_hero.html image=page.background-image message="Need Help?" %}
+{% include mobile_hero.html image=background_image message="Need Help?" %}
 
-<section id="homepage_1" class="hero" style="background-image: url('{{ page.background-image }}')">
+<section id="homepage_1" class="hero" style="background-image: url('{% asset '{{ background_image }}' @path %}')">
     <div class="section-content">
         <h1>Welcome to Elevate360 Wellness</h1>
         <h2>State of the art care, delivered compassionately.</h2>
@@ -34,11 +38,11 @@ layout: default
         <p>We provide exceptional individualized care for patients and families struggling with alcohol, pain medication, and other substance use.</p>
         <!-- <a class="learn-more">Learn More &#x2192;</a> -->
     </div>
-    <div class="section-image" style="background-image: url('{{ page.section-image-1 }}')">
+    <div class="section-image" style="background-image: url('{% asset '{{ section_image_1 }}' @path %}')">
     </div>
 </section>
 <section class="home-section" id="our_vision">
-    <div class="section-image" style="background-image: url('{{ page.section-image-2 }}')"></div>
+    <div class="section-image" style="background-image: url('{% asset '{{ section_image_2 }}' @path %}')"></div>
     <div class="section-text">
         <h1 class="small">Our Vision</h1>
         <h2>Compassionate care, effectively done.</h2>
@@ -53,7 +57,7 @@ layout: default
         <p>We have a deeply held belief that people struggling with addiction deserve professional respectful treatment that works.</p>
         <!-- <a class="learn-more">Learn More &#x2192;</a> -->
     </div>
-    <div class="section-image" style="background-image: url('{{ page.section-image-3 }}')"></div>
+    <div class="section-image" style="background-image: url('{% asset '{{ section_image_3 }}' @path %}')"></div>
 </section>
 
 {% include section-type1.html

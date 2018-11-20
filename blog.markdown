@@ -2,10 +2,10 @@
 title: Blog
 date: 2018-10-25 04:45:00 Z
 ---
-
 <section id="featured_post">
     {% assign first_post = site.posts[0] %}
-    <a href="{{ first_post.url }}" class="section-image" style="background-image: url('{{ first_post.post_image }}');"></a>
+    {% assign post_image = first_post.post_image | remove_first: '/uploads/' | url_decode %}
+    <a href="{{ first_post.url }}" class="section-image"{% if post_image %} style="background-image: url('{% asset '{{ post_image }}' @path %}');"{% endif %}></a>
     <div class="section-text">
         <h1 class="small">New Post</h1>
         <h2><a href="{{ first_post.url }}" >{{ first_post.title}}</a></h2>

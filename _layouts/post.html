@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% if page.post_image %}
+    {% assign post_image = page.post_image | remove_first: '/uploads/' | url_decode %}
+{% endif %}
 
 <section>
     <div class="post">
@@ -16,8 +19,8 @@ layout: default
         {% if author %}
         By <a class="post-author" href="{{ author.url }}">{{ page.author }}</a>
         {% endif %}
-        {% if page.post_image %}
-            <div style="background-image: url('{{ page.post_image }}')" class="post-hero-image"></div>
+        {% if post_image %}
+            <div style="background-image: url('{% asset '{{ post_image }}' @path %}')" class="post-hero-image"></div>
         {% endif %}
         <div class="post-content">
             {{ content }}

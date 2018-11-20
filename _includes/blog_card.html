@@ -1,5 +1,9 @@
+{% if include.post.post_image %}
+  {% assign post_image = include.post.post_image | remove_first: '/uploads/' | url_decode %}
+{% endif %}
+
 <div class="blog-card">
-    <a href="{{ include.post.url }}" class="post-image" style="background-image: url('{{ include.post.post_image }}')"></a>
+    <a href="{{ include.post.url }}" class="post-image"{% if post_image %} style="background-image: url('{% asset '{{ post_image }}' @path %}')"{% endif %}></a>
     <h4><a href="{{ include.post.url }}" class="green">{{ include.post.title }}</a></h4>
     {{ include.post.excerpt }}
     <a class="learn-more" href="{{ include.post.url }}">Read More &#x2192;</a>

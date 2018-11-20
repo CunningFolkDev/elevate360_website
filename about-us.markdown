@@ -1,13 +1,15 @@
 ---
 title: About Us
 date: 2018-10-25 00:42:00 -04:00
-background-image: "/assets/images/hero@2x.jpg"
-section-image-1: "/assets/images/kari-shea-580156-unsplash@2x.jpg"
+background-image: "hero@2x.jpg"
+section-image-1: "kari-shea-580156-unsplash@2x.jpg"
 ---
+{% assign background_image = page.background-image | remove_first: '/uploads/' | url_decode %}
+{% assign section_image_1 = page.section-image-1 | remove_first: '/uploads/' | url_decode %}
 
-{% include mobile_hero.html image=page.background-image message="Let's Talk" %}
+{% include mobile_hero.html image=background_image message="Let's Talk" %}
 
-<section id="about_us_hero" class="hero" style="background-image: url('{{ page.background-image }}')">
+<section id="about_us_hero" class="hero" style="background-image: url('{% asset '{{ background_image }}' @path %}')">
     <div class="section-content">
         <h1>About Us</h1>
         <h2>Professional treatment that works.</h2>
@@ -30,7 +32,7 @@ section-image-1: "/assets/images/kari-shea-580156-unsplash@2x.jpg"
         </p>
         <!-- <a class="learn-more">Learn More &#x2192;</a> -->
     </div>
-    <div class="side-image" style="background-image:url('{{ page.section-image-1 }}')"></div>
+    <div class="side-image" style="background-image: url('{% asset '{{ section_image_1 }}' @path %}')"></div>
 </section>
 {% include section-type1.html
     id="meet_our_staff"

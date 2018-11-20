@@ -1,4 +1,6 @@
-<section class="mobile-hero only-mobile" style="background-image: url('{{ include.image }}')">
+{% assign background_image = include.image | remove_first: '/uploads/' | url_decode %}
+
+<section class="mobile-hero only-mobile" style="background-image: url('{% asset '{{ background_image }}' @path %}')">
     <h2>{{ include.message }}</h2>
 </section>
 <div class="mobile-hero-call only-mobile">
