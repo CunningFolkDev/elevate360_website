@@ -1,6 +1,6 @@
 ---
 title: Blog
-date: 2018-10-25 04:45:00 Z
+date: 2018-10-25 00:45:00 -04:00
 ---
 <section id="featured_post">
     {% assign first_post = site.posts[0] %}

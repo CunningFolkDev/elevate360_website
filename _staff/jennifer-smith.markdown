@@ -1,6 +1,6 @@
 ---
 title: Jennifer Smith
-date: 2018-10-29 03:52:00 Z
+date: 2018-10-28 23:52:00 -04:00
 position: 4
 layout: default
 name: JENNIFER L. SMITH, PH.D.

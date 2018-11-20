@@ -1,6 +1,6 @@
 ---
 title: JEANE RAJACIC-POPPE
-date: 2018-10-29 03:52:00 Z
+date: 2018-10-28 23:52:00 -04:00
 position: 3
 layout: default
 name: JEANE RAJACIC-POPPE, PH.D

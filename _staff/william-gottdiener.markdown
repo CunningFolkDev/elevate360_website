@@ -1,6 +1,6 @@
 ---
 title: William Gottdiener
-date: 2018-10-29 03:52:00 Z
+date: 2018-10-28 23:52:00 -04:00
 position: 6
 layout: default
 name: WILLIAM H. GOTTDIENER, PH.D.
