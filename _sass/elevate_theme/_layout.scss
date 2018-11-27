@@ -361,10 +361,8 @@ a.nav-icon {
                 }
 
                 svg {
-                    path {
-                        &.grey { fill: $dark-grey; }
-                        &.green { fill: $avocado; }
-                    }
+                    .grey { fill: $dark-grey; }
+                    .green { fill: $avocado; }
                 }
             }
         }
