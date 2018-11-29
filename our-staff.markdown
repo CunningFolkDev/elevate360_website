@@ -3,7 +3,7 @@ title: Our Staff
 date: 2018-10-28 11:51:00 -04:00
 ---
 
-{% include section-type1.html
+{% include section-type2.html
     id="meet_our_staff"
     h1="Our Team"
     h2="Meet Our Staff"
@@ -12,12 +12,13 @@ date: 2018-10-28 11:51:00 -04:00
 
 {% assign staff = site.staff | sort: 'position' %}
 <section id="staff_list">
-    {% for person in staff  %}
-        <div class="team-bio-card" aria-data-url="{{ person.url }}">
-            {{ person.content }}
-        </div>
-    {% endfor %}
-
+    <div class="grid-inner">
+        {% for person in staff  %}
+            <div class="team-bio-card" aria-data-url="{{ person.url }}">
+                {{ person.content }}
+            </div>
+        {% endfor %}
+    </div>
 </section>
 
 <script>
@@ -25,6 +26,7 @@ date: 2018-10-28 11:51:00 -04:00
         var titles = document.querySelectorAll('.team-bio h1.small');
         var text_blocks = document.querySelectorAll('.team-bio-card .team-bio-text');
         var cards = document.querySelectorAll('.team-bio-card');
+        var bios = document.querySelectorAll('.team-bio');
 
         for (let i = 0; i < titles.length; i++) {
             titles[i].style = "display: none;"
@@ -34,11 +36,14 @@ date: 2018-10-28 11:51:00 -04:00
 
             const more = document.createElement('a');
             const url = cards[i].getAttribute('aria-data-url');
-            console.log(cards)
+            // console.log(cards)
             more.setAttribute('class', 'learn-more');
             more.setAttribute('href', url);
             more.innerHTML = 'Learn More &#x2192;';
-            text_blocks[i].append(more);
+            cards[i].append(more);
+            console.log(bios[i])
+            bios[i].classList.remove('team-bio');
+            bios[i].classList.add('team-bio-card-inner');
         }
     })();
 </script>

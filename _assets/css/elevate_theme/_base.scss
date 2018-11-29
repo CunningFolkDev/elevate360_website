@@ -28,10 +28,10 @@ body {
     flex-direction: column;
 }
 
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 769px) {
     .only-mobile { display: none !important; }
 }
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
     .only-desktop { display: none !important; }
 }
 
@@ -156,10 +156,10 @@ a {
   
     &.rounded {
         border: none;
-        border-radius: 26.5px;
+        border-radius: 50px;
         width: 250px;
-        height: 53px;
-        line-height: 53px;
+        height: 50px;
+        line-height: 50px;
     }
 
     &.bordered {
@@ -295,3 +295,8 @@ table {
         border: 1px solid $pale-blue;
     }
 }
+
+
+/* misc */
+
+.hidden { display: none; }

@@ -5,25 +5,33 @@ layout: default
     {% assign post_image = page.post_image | remove_first: '/uploads/' | url_decode %}
 {% endif %}
 
-<section>
+<section class="post-holder">
     <div class="post">
-        <h2 class="post-title">{{ page.title }}</h2>
-        <ul class="post-meta">
-            {% for tag in page.tags %}
-                <li class="post-tag">{{ tag }}</li>
-            {% endfor %}
+        <header class="post-header">
+            <h2 class="post-title">{{ page.title }}</h2>
+            <ul class="post-meta">
+                {% for tag in page.tags %}
+                    <li class="post-tag">{{ tag }}</li>
+                {% endfor %}
+            </ul>
+
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <li class="post-date">{{ page.date | date: date_format }}</li>
-        </ul>
-        {% assign author = site.authors | where: 'title', page.author | first %}
-        {% if author %}
-        By <a class="post-author" href="{{ author.url }}">{{ page.author }}</a>
-        {% endif %}
+            <p class="post-date">{{ page.date | date: date_format }}</p>
+
+            {% assign author = site.authors | where: 'title', page.author | first %}
+            {% if author %}
+                <p class="post-author">By <a href="{{ author.url }}">{{ page.author }}</a></p>
+            {% endif %}
+        </header>
+        
         {% if post_image %}
-            <div style="background-image: url('{% asset '{{ post_image }}' @path %}')" class="post-hero-image"></div>
+            <div class='hero-image'>
+                <div style="background-image: url('{% asset '{{ post_image }}' @path %}')" class="post-hero-image"></div>
+            </div>
         {% endif %}
-        <div class="post-content">
+
+        <article class="post-content">
             {{ content }}
-        </div>
+        </article>
     </div>
 </section>

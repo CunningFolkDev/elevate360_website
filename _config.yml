@@ -11,11 +11,19 @@ collections:
   home:
     title: Home
     output: true
+  how-we-treat:
+    title: How we Treat
+    output: true
+    layout: default
   posts:
     title: Posts
     output: true
   staff:
     title: Staff
+    output: true
+    layout: default
+  therapies-used:
+    title: Therapies Used
     output: true
     layout: default
   treatment-programs:

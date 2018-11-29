@@ -1,0 +1,14 @@
+<section class="type2" id="{{ include.id }}" >
+    <div class="type2-inner">
+        <div class="section-text-wide"><h1 class="small">{{ include.h1 }}</h1></div>
+        <div class="section-text">
+            <h2 style="margin: 0;">{{ include.h2 }}</h2>
+        </div>
+        <div class="section-text">
+            <p>{{ include.content }}</p>
+            {% if include.href %}
+                <a href="{{ include.href }}" class="learn-more">Learn More &#x2192;</a>
+            {% endif %}
+        </div>
+    </div>
+</section>

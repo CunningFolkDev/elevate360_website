@@ -6,7 +6,7 @@ $maize: #ebb660;
 $avocado: #b9c02f;
 $grey-blue: #7a92ae;
 $pale-blue: #dee4ea;
-$pale-blue-50: rgba(222, 228, 234, 0.5);
+$pale-blue-50: #eaeff3;
 $dark-grey: #53545b;
 
 $base-font-family: 'Montserrat', sans-serif !default;
@@ -18,7 +18,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     30px !default;
 
 $text-color:       $greyish-brown !default;
-$background-color: $off-white !default;
+$background-color: #fff !default;
 $brand-color:      $avocado !default;
 
 $table-text-align: left !default;
@@ -36,7 +36,7 @@ $on-laptop:        800px !default;
 
 @mixin hide-text {
   overflow: hidden;
-  text-indent: 101%;
+  text-indent: -100%;
   white-space: nowrap;
 }
 
@@ -72,5 +72,6 @@ body, html {
 @import
   "elevate_theme/base",
   "elevate_theme/typography",
-  "elevate_theme/layout"
+  "elevate_theme/layout",
+  "elevate_theme/modal"
 ;

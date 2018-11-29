@@ -2,10 +2,10 @@
 title: Jennifer Smith
 date: 2018-10-28 23:52:00 -04:00
 position: 4
-layout: default
-name: JENNIFER L. SMITH, PH.D.
+name: Jennifer L. Smith, Ph.D.
 job_title: Psychologist
 photo: "staff/jen-smith@2x.jpg"
+layout: default
 ---
 {% assign bio_photo = page.photo | remove_first: '/uploads/' | url_decode %}
 

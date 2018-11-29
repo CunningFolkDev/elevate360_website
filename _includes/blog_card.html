@@ -2,7 +2,7 @@
   {% assign post_image = include.post.post_image | remove_first: '/uploads/' | url_decode %}
 {% endif %}
 
-<div class="blog-card">
+<div class="blog-card card-3-up">
     <a href="{{ include.post.url }}" class="post-image"{% if post_image %} style="background-image: url('{% asset '{{ post_image }}' @path %}')"{% endif %}></a>
     <h4><a href="{{ include.post.url }}" class="green">{{ include.post.title }}</a></h4>
     {{ include.post.excerpt }}

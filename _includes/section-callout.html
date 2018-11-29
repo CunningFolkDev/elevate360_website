@@ -1,8 +1,10 @@
 <div class="cta cta-green">
-    <div>
-        <h3>{{ include.h3 }}</h3>
-        <h5>{{ include.h5 }}</h5>
+    <div class="cta-inner">
+      <div class="cta-text">
+          <h3>{{ include.h3 }}</h3>
+          <h4>{{ include.h4 }}</h4>
+      </div>
+      <a href="{{ include.button_href }}" class="button rounded only-desktop">{{ include.button_msg }}</a>
+      <a href="{{ include.button_href }}" class="button rounded only-mobile">{{ include.button_mobile }}</a>
     </div>
-    <a href="{{ include.button_href }}" class="button rounded only-desktop">{{ include.button_msg }}</a>
-    <a href="{{ include.button_href }}" class="button rounded only-mobile">{{ include.button_mobile }}</a>
 </div>

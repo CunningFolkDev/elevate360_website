@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include section-type1.html
+{% include section-type2.html
     id="service_subsection_header"
     h1="Our Services"
     h2=page.title
@@ -10,15 +10,18 @@ layout: default
 %}
 
 <section id="services_grid">
-    {%- for card in site[page.collection] -%}
-        {% include services_card.html card=card %}
-    {%- endfor -%}
+    <div class="grid-inner">
+        {% assign collection = site[page.collection] | sort: 'position' %}
+        {%- for card in collection -%}
+            {% include services_card.html card=card %}
+        {%- endfor -%}
+    </div>
 </section>
 
 {% if page.callout %}
     {% include section-callout.html
         h3="Patients can remain connected to one another through the Connections mobile app which is available to all Elevate360 patients."
-        h5="Because addiction is a chronic health issue, recurrences are a part of the recovery process, and patients work with their therapists to plan for these emergencies in advance so that they are not taken by surprise if they occur.  Staying in contact with the Elevate360 community can help patients keep minor slips from becoming full relapses."
+        h4="Because addiction is a chronic health issue, recurrences are a part of the recovery process, and patients work with their therapists to plan for these emergencies in advance so that they are not taken by surprise if they occur.  Staying in contact with the Elevate360 community can help patients keep minor slips from becoming full relapses."
         button_msg="Download the App"
         button_mobile="Download the App"
         button_href="#"
@@ -28,7 +31,7 @@ layout: default
 {% if page.footer-section %}
     {% assign footer = page.footer-section %}
 
-    {% include section-type1.html
+    {% include section-type2.html
         id="service_subfooter"
         h1=footer.title
         h2=footer.callout

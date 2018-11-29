@@ -1,4 +1,8 @@
 <div class="card services-card">
     <h4>{{ include.card.title }}</h4>
-    {{ include.card.content }}
+    {{ include.card.excerpt }}
+    {% if  include.card.content.size > include.card.excerpt.size %}
+        <div class="hidden"><h4>{{ include.card.title }}</h4>{{ include.card.content }}</div>
+        <a class="learn-more">Learn More &#x2192;</a>
+    {% endif %}
 </div>

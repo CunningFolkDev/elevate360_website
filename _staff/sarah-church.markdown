@@ -2,10 +2,10 @@
 title: Sarah Church
 date: 2018-10-28 23:52:00 -04:00
 position: 1
-layout: default
-name: SARAH CHURCH, PH.D.
-photo: "staff/sarah-church@2x.jpg"
+name: Sarah Church, Ph.D.
 job_title: CEO
+photo: "staff/sarah-church@2x.jpg"
+layout: default
 ---
 {% assign bio_photo = page.photo | remove_first: '/uploads/' | url_decode %}
 

@@ -1,19 +1,14 @@
 ---
 title: Contact Us
-date: 2018-10-31 18:17:00 Z
+date: 2018-10-31 14:17:00 -04:00
 ---
 
-<section id="contact_intro">
-    <h1 class="small small-full-width">contact</h1>
-    <div class="section-text">
-        <h2>Contact Us</h2>
-    </div>
-    <div class="section-text">
-        <p>
-        Thanks for visiting our website!  We are glad you found us and look forward to hearing from you. Please feel free to call or email us to set up an initial meeting or to ask any questions you have about our services or the process.
-        </p>
-    </div>
-</section>
+{% include section-type2.html
+    id="contact_intro"
+    h1="Contact"
+    h2="Contact Us"
+    content="Thanks for visiting our website!  We are glad you found us and look forward to hearing from you. Please feel free to call or email us to set up an initial meeting or to ask any questions you have about our services or the process."
+%}
 
 <section id="contact_form">
     <div class="section-content">

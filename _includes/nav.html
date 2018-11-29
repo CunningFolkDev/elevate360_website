@@ -1,9 +1,24 @@
-<nav id="nav">
-        {% for item in site.data.nav.toc %}
-            <a class="nav-item {% if item.url == page.url %}active{% endif %}"
-                href="{{ item.url }}"
-            >{{ item.title }}</a>
-        {% endfor %}
+<nav class="main-nav" id="nav">
+  <div class="inner-container">
+    <ul class="primary">
+      {% for item in site.data.nav.toc %}
+        <li class="nav-item{% if item.url == page.url %} active{% endif %}{% unless item.subitems %} no-secondary{% endunless %}{% if forloop.index == 1 %} wide{% endif %}">
+          <a href="{{ item.url }}" class="top-level-link">
+            {{ item.title }}
+          </a>
+          {% if item.subitems %}
+            <ul class="secondary">
+                {% for subitem in item.subitems %}
+                    <li><a href="{{ subitem.url }}">{{ subitem.page }}</a></li>
+                {% endfor %}
+            </ul>
+          {% else %}
+            <span class="secondary-placeholder"></span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </nav>
 <a class="header nav-icon" id="nav_icon">
   <span class="text">
