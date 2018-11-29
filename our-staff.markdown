@@ -41,7 +41,7 @@ date: 2018-10-28 11:51:00 -04:00
             more.setAttribute('href', url);
             more.innerHTML = 'Learn More &#x2192;';
             cards[i].append(more);
-            console.log(bios[i])
+            // console.log(bios[i])
             bios[i].classList.remove('team-bio');
             bios[i].classList.add('team-bio-card-inner');
         }
