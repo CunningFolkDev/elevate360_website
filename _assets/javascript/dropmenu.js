@@ -25,14 +25,16 @@
 
                     // open the specific set of links, if they exist
                     if (!navListElement.classList.contains('no-secondary')) {
+                        const navListClass = navListElement.getAttribute('data-nav-class');
                         navElement.classList.add('expanded');
+                        navElement.classList.add(navListClass);
                         DropMenu.openPrimarySection(navListElement);
                     }
                 }
             }
 
             const closeMenu = (e) => {
-                navElement.classList.remove('expanded');
+                navElement.setAttribute('class', 'main-nav');
                 DropMenu.closeAllSections(primayLinks);
             }
 
@@ -56,7 +58,7 @@
                 });
             }
             const nav_node = document.getElementById('nav');
-            nav_node.classList.remove('expanded');
+            nav_node.setAttribute('class', 'main-nav');
         }
     };
 

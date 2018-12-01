@@ -2,12 +2,14 @@ toc:
 
 - title: Why Elevate360?
   url: /why-elevate360/
+  class: why
   subitems:
     - page: Frequently Asked Questions
       url: /faq/
  
 - title: Services
   url: /services/
+  class: services
   subitems:
     - page: Treatment Programs
       url: /treatment-programs/
@@ -18,9 +20,11 @@ toc:
 
 - title: About Us
   url: /about-us/
+  class: about
   subitems:
     - page: Our Staff
       url: /our-staff/
 
 - title: Blog
   url: /blog
+  class: blog
