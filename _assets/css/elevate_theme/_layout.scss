@@ -1512,6 +1512,23 @@ section#service_subfooter {
     }
 }
 
+// =============  FAQ =============== //
+
+body {
+    &.faq {
+        ol {
+            li {
+                strong {
+                    &:nth-child(1) {
+                        display: block;
+                        margin-bottom: 6px;
+                    }
+                }
+            }
+        }
+    }
+}
+
 // ============ Blog ============== //
 section#featured_post {
     padding-bottom: 0;
