@@ -19,7 +19,6 @@ collections:
     title: Staff
     output: true
     permalink: "/about-us/our-staff/:title"
-    layout: default
   therapies-used:
     title: Therapies Used
     output: true
