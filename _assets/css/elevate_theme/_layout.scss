@@ -448,7 +448,7 @@ a.nav-icon {
 .site-footer {
     background-color: $dark-grey;
     color: #fff;
-    height: 367px;
+    // height: 367px;
     display: flex;
     flex-basis: 100%;
     flex-wrap: wrap;
@@ -524,13 +524,14 @@ a.nav-icon {
     }
     #social {
         margin-left: auto; // "floats" div to the right
-        flex-basis: 50%;
+        flex-basis: 40%;
         justify-content: flex-end;
         display: flex;
         flex-flow: row wrap;
         max-width: 500px;
 
-        @media screen and (max-width: 768px) {
+
+        @media screen and (max-width: 834px) {
             flex-basis: 100%;
             justify-content: center;
             max-width: 768px;
@@ -546,7 +547,7 @@ a.nav-icon {
 
             @include placeholder-text($off-white, 400);
 
-            @media screen and (max-width: 768px) {
+            @media screen and (max-width: 834px) {
                 margin-bottom: 48px;
                 max-width: 100%;
             }
