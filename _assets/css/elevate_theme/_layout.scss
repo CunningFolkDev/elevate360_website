@@ -1399,6 +1399,13 @@ section.type2 {
         }
 
         .services-card {
+            padding-bottom: 80px;
+            @media screen and (max-width: 834px) {
+                padding-bottom: 50px;
+            }
+            @media screen and (max-width: 450px) {
+                padding-bottom: 40px;
+            }
             .learn-more {
                 bottom: 40px;
                 right: 40px;
