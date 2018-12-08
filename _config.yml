@@ -43,7 +43,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/blog/:title"
+    permalink: "/blog/:title/"
     author: 
     post_image: 
 - scope:
