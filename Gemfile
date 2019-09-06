@@ -1,7 +1,7 @@
 # coding: utf-8
 source 'http://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '<4'
 gem 'minima'
 
 group :jekyll_plugins do
