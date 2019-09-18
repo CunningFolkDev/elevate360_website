@@ -2,7 +2,7 @@
 title: William Gottdiener
 date: 2018-10-28 23:52:00 -04:00
 position: 5
-full_title: William H. Gottdiener, Ph.D., ABPP, FIPA.
+full_title: William H. Gottdiener, Ph.D., ABPP, FIPA
 job_title: Psychologist
 photo: staff/william-g@2x.jpg
 photo_left: true
