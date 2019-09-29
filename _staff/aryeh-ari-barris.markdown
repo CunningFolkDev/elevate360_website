@@ -2,6 +2,9 @@
 title: Aryeh "Ari" Barris
 date: 2019-09-29 13:13:00 -04:00
 position: 8
+full_title: Aryeh Barria, Ph.D.
+job_title: Post-Doctoral Fellow
+Field name: 
 ---
 
 Aryeh Barris is a Post-Doctoral Clinical Psychology Fellow specializing in treatment of substance use disorders through cognitive behavioral therapy and mindfulness-based approaches. Aryeh received his doctoral training at Long Island University-Post, and his graduate work has involved providing psychotherapeutic services in inpatient and outpatient addiction treatment settings, both locally, and in Colorado. Aryeh has cultivated a proficiency in facilitating group and individual therapy and in conducting psychological assessment batteries. 
