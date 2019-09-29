@@ -129,6 +129,15 @@ defaults:
     layout: tertiary
 - scope:
     path: ''
+    type: trainings
+  values:
+    tags:
+    - clinician training
+    back_href: "/services/trainings-for-clinicians"
+    back_title: Trainings
+    layout: tertiary
+- scope:
+    path: ''
     type: group-psychotherapy
   values:
     title:
