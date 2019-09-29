@@ -91,10 +91,21 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:title/"
-    author: 
-    post_image: 
-    seo_description: 
-    seo_keywords: 
+    author:
+    post_image:
+    seo_description:
+    seo_keywords:
+- scope:
+    path: ''
+    type: staff
+- values:
+    layout: tertiary
+    full_title: Person's Name Here
+    job_title: Job Title Here
+    photo: "/uploads/IMG_0916-cb7bd0.jpg"
+    photo_left: true
+    back_href: "/about-us/our-staff"
+    back_title: Our Staff
 - scope:
     path: ''
     type: pages
@@ -107,13 +118,13 @@ defaults:
     permalink: "/blog/authors/:title/"
     layout: author
     credentials: Ph.D.
-    medium: 
+    medium:
 - scope:
     path: ''
     type: upcoming-events
   values:
-    event_date: 
-    event_url: 
+    event_date:
+    event_url:
 - scope:
     path: ''
     type: resources-media
