@@ -98,7 +98,7 @@ defaults:
 - scope:
     path: ''
     type: staff
-- values:
+  values:
     layout: tertiary
     full_title: Name Here
     job_title: Job Title Here
