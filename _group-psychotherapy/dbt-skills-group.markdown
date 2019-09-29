@@ -1,6 +1,7 @@
 ---
 title: DBT Skills Group
 date: 2019-06-26 12:18:00 -04:00
+meeting_time:
 tags:
 - DBT Skills Group
 position: 2
