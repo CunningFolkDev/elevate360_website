@@ -100,7 +100,7 @@ defaults:
     type: staff
 - values:
     layout: tertiary
-    full_title: Person's Name Here
+    full_title: Name Here
     job_title: Job Title Here
     photo: "/uploads/IMG_0916-cb7bd0.jpg"
     photo_left: true
