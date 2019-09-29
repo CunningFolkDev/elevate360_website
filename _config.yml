@@ -91,10 +91,10 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:title/"
-    author: 
-    post_image: 
-    seo_description: 
-    seo_keywords: 
+    author:
+    post_image:
+    seo_description:
+    seo_keywords:
 - scope:
     path: ''
     type: staff
@@ -108,6 +108,17 @@ defaults:
     back_title: Our Staff
 - scope:
     path: ''
+    type: therapies-used
+  values:
+    title:
+    seo_title:
+    seo_description:
+    seo_keywords:
+    back_href: "/why-wholeview/therapies-used/"
+    back_title: Therapies Used
+    layout: tertiary    
+- scope:
+    path: ''
     type: pages
   values:
     layout: page
@@ -118,13 +129,13 @@ defaults:
     permalink: "/blog/authors/:title/"
     layout: author
     credentials: Ph.D.
-    medium: 
+    medium:
 - scope:
     path: ''
     type: upcoming-events
   values:
-    event_date: 
-    event_url: 
+    event_date:
+    event_url:
 - scope:
     path: ''
     type: resources-media
