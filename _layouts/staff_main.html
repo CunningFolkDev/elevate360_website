@@ -14,18 +14,14 @@ layout: default
 <section id="staff_list">
     <div class="grid-inner">
         {% for person in staff  %}
-            {% assign excerpt_html = person.content | split: '</h4>' %}
-            {% assign subtitle = excerpt_html[0] | strip_html %}
-            {% assign excerpt_html_two = excerpt_html[1] | split: '</p>' %}
-            {% assign excerpt = excerpt_html_two[0] | strip_html %}
             <div class="team-bio-card" aria-data-url="{{ person.url }}">
                 <section class="team-bio-card-inner">
                     {% assign bio_photo = person.photo | remove_first: '/uploads/' | url_decode %}
                     <img src="{% asset '{{ bio_photo }}' @path %}" class="team-bio-photo" alt="{% if person.photo_alt %}{{ person.photo_alt }}{% else %}{{ person.title }}{% endif %}" />
                     <div class="team-bio-text">
                         <h1>{{ person.full_title }}</h1>
-                        <h4>{{ subtitle }}</h4>
-                        <p class="preview">{{ excerpt }}</p>
+                        <h4>{{ person.job_title }}</h4>
+                        <p class="preview">{{ person.excerpt | strip_html }}</p>
                     </div>
                 </section>
                 <a href="{{ person.url }}" class="learn-more">Learn More &#x2192;</a>

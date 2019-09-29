@@ -10,10 +10,8 @@ back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/n4Hy3SPm9vo
 show_zencare: true
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Jeane Rajacic-Poppe is a licensed clinical health psychologist (NY & NJ) with over 20 years of experience providing psychological services, with a subspecialty in the treatment of substance use disorders.   She has expertise in medication assisted treatment and Cognitive Behavioral Therapy.
 

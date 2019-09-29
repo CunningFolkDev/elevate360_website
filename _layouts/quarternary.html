@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+{% comment %}
+Quarternary - Same as tertiary layout, except with h4 before main content
+for the staff pages.
+
+The tertiary layout expects:
+title: Opioid Overdose Prevention Program (OOPP)
+
+And has optional attributes:
+photo: staff/amy-colley@2x.jpg
+photo_alt: I am alt text
+photo_left: true
+back_href: /services/trainings-for-clinicians
+back_title: Trainings
+full_title: A longer title than you want in the <title> tag
+job_title: The staff member's job title
+video_src: The URL of the YouTube video to embed.  If omitted, no YouTube video will be embedded.
+show_zencare: Whether to show the link to the Zencare profile.
+zencare_slug: Normally not needed.  The slug is generated automatically from the page title, e.g. "Amy Colley" becomes amy-colley.
+A value in zencare_slug will override the automatically generated slug.
+If you get 404 errors when clicking the Zencare button, put in the correct value for zencare_slug.
+
+The `back_title` and `photo_alt` are not used if their respect `back_href` and `photo` are not utilized.
+{% endcomment %}
+
+{% assign content_with_phone_num = page.content | replace: '!PHONE_NUMBER!', site.phone_number %}
+
+{% if page.show_zencare %}
+  {% assign zencare_slug = page.title | slugify %}
+  {% if page.zencare_slug %}
+    {% assign zencare_slug = page.zencare_slug %}
+  {% endif %}
+{% endif %}
+
+{% if page.photo %}
+  {% assign page_photo = page.photo | remove_first: '/uploads/' | url_decode %}
+{% endif %}
+
+
+<section class="content-page tertiary">
+  <header>
+    {% if page.back_href %}
+      <p class="back-link">
+        <a href="{{ page.back_href }}">&#x2190; Back{% if page.back_title %} to {{ page.back_title }}{% endif %}</a>
+      </p>
+    {% endif %}
+    <h1 class="small">{% if page.full_title %}{{ page.full_title }}{% else %}{{ page.title }}{% endif %}</h1>
+  </header>
+  <article class="float-on-mobile">
+    {% if page_photo %}
+      <div class="only-desktop page-photo{% if page.photo_left == true %} photo-left{% endif %}">
+        <img src="{% asset '{{ page_photo }}' @path %}" alt="{% if page.photo_alt %}{{ page.photo_alt }}{% else %}{{ page.title }}{% endif %}">
+        {% if zencare_slug %}
+        <a href="https://zencare.co/{{ zencare_slug }}" target="_blank" class="zencare-logo only-desktop">
+          <div class="zencareLogo" style="max-width: 200px; text-align: center; margin: auto; margin-top:20px;">
+            <img src="https://s3.us-east-2.amazonaws.com/zencare/therapist_site/web+badges/zencare_therapist_turquoise_full_transparent.png" style="max-width: 200px;" alt="Zencare Trusted Therapist {{ page.title }}">
+          </div>
+        </a>
+        {% endif %}
+      </div>
+    {% endif %}
+    <div class="tertiary-content-inner">
+      {% if page_photo %}
+        <div class="only-mobile page-photo{% if page.photo_left == true %} photo-left{% endif %}">
+          <img src="{% asset '{{ page_photo }}' @path %}" alt="{% if page.photo_alt %}{{ page.photo_alt }}{% else %}{{ page.title }}{% endif %}">
+        </div>
+      {% endif %}
+      <h4>{{ page.job_title }}</h4>
+      {{ content_with_phone_num }}
+      {% if page.video_src %}
+      <div class="video-embed only-desktop">
+        <iframe width="560" height="315" src="{{ page.video_src }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      {% endif %}
+    </div>
+  </article>
+  <div class="video-embed only-mobile">
+    <iframe width="auto" height="auto" style="margin: 20px auto;" src="{{ page.video_src }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% if zencare_slug %}
+    <a href="https://zencare.co/{{ zencare_slug }}" target="_blank" class="zencare-logo only-mobile">
+      <div class="zencareLogo" style="max-width: 200px; text-align: center; margin: 20px auto;">
+        <img src="https://s3.us-east-2.amazonaws.com/zencare/therapist_site/web+badges/zencare_therapist_turquoise_full_transparent.png" style="max-width: 200px;" alt="Zencare Trusted Therapist {{ page.title }}">
+      </div>
+    </a>
+    {% endif %}
+  </div>
+
+<section>

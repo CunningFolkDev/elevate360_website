@@ -3,17 +3,15 @@ title: Sarah Church
 date: 2018-10-28 23:52:00 -04:00
 position: 0
 full_title: Sarah Church, Ph.D.
-job_title: Founder and Executive Director
+job_title: Founder and Executive Director, Wholeview Wellness Centers
 photo: staff/sarah-church@2x.jpg
 photo_left: true
 back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/YXPlSx_IUMA
 show_zencare: true
-layout: tertiary
+layout: quarternary
 ---
-
-#### Founder and Executive Director, Wholeview Wellness Centers
 
 Dr. Church, the founder and executive director of Wholeview, is a clinical psychologist who has more than 20 years of experience in research, program development and treatment of patients with substance use and co-occurring mental health disorders. She is an expert in Cognitive Behavioral Therapy (CBT), Community Reinforcement Approach (CRA) and Contingency Management.  
 

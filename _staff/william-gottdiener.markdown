@@ -10,10 +10,8 @@ back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/dWVLIr5VZzQ
 show_zencare: true
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Gottdiener is a clinical psychologist with over 30 years of clinical experience helping people with substance use disorders, which includes working in inpatient, outpatient, and private practice settings. His expertise is in the use of empirically supported psychodynamic therapy for people with substance use disorders.
 

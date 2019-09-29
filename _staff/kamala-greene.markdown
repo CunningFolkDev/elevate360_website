@@ -11,10 +11,8 @@ back_title: Our Staff
 video_src: https://www.youtube.com/embed/A3__Wf-24g4
 show_zencare: true
 zencare_slug: kamala-genece
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Génecé is a NY state licensed clinical psychologist with over 15 years of experience in the design and implementation of addiction treatment programs and the utilization of cognitive-behavioral techniques for the treatment of co-occurring substance abuse and mental health disorders.
 

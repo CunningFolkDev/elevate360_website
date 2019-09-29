@@ -10,10 +10,8 @@ back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/Fw5a970J_2o
 show_zencare: true
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Amy J. Colley is a New York State licensed clinical psychologist with over 20 years experience working in the field of addiction. She graduated with a doctorate degree in Clinical Psychology from Long Island University after completing an MA in Italian from Middlebury College and a BA in French from Northwestern University.
 

@@ -99,7 +99,7 @@ defaults:
     path: ''
     type: staff
   values:
-    layout: tertiary
+    layout: quarternary
     full_title: Name Here
     job_title: Job Title Here
     photo: "/uploads/IMG_0916-cb7bd0.jpg"

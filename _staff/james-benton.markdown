@@ -9,10 +9,8 @@ photo_left: true
 back_href: "/about-us/our-staff"
 back_title: Our Staff
 show_zencare: false
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Benton is a clinical psychologist with over 25 years of experience.  He specializes in the treatment of substance use disorders, with expertise in Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), medication assisted treatment, and chronic pain.
 

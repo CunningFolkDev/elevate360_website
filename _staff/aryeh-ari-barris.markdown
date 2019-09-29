@@ -8,10 +8,8 @@ photo: bridge-560983@2x.jpg
 photo_left: true
 back_href: "/about-us/our-staff"
 back_title: Our Staff
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Aryeh Barris is a Post-Doctoral Clinical Psychology Fellow specializing in treatment of substance use disorders through cognitive behavioral therapy and mindfulness-based approaches. Aryeh received his doctoral training at Long Island University-Post, and his graduate work has involved providing psychotherapeutic services in inpatient and outpatient addiction treatment settings, both locally, and in Colorado. Aryeh has cultivated a proficiency in facilitating group and individual therapy and in conducting psychological assessment batteries.
 

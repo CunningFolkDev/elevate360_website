@@ -130,7 +130,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll
+  jekyll (< 4)
   jekyll-assets
   jekyll-feed
   jekyll-seo-tag

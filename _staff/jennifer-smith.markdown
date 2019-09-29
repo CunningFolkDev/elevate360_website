@@ -10,10 +10,8 @@ back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/mlE17BINSWc
 show_zencare: true
-layout: tertiary
+layout: quarternary
 ---
-
-#### {{ page.job_title }}
 
 Dr. Smith is a clinical psychologist who has been working in addiction research and treatment for many years and is a national expert in Motivational Interviewing, she uses relaxation therapy, mindfulness and Cognitive-Behavioral Therapy (CBT) in her practice.
 
