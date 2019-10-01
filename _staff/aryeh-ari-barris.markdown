@@ -1,7 +1,7 @@
 ---
 title: Aryeh "Ari" Barris
 date: 2019-09-29 13:13:00 -04:00
-position: 9
+position: 8
 full_title: Aryeh Barris, Ph.D.
 job_title: Post-Doctoral Fellow
 photo: bridge-560983@2x.jpg
