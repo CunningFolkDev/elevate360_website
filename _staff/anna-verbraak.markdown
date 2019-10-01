@@ -12,7 +12,7 @@ She has also held previous positions as a substance abuse specialist in a primar
 
 Anna has also taught the 350 hour CASAC program at Rockland Council on Alcoholism and Other Drug Dependence (RCADD) as well as Dutchess Community College. 
 
-Anna is also a certified education and training provider through OASAS and regularly offers trainings in the community including Screening, Brief Intervention and Referral to Treatment (SBIRT), Clinical Supervision Foundations, New Ethical Dilemmas in the Digital Age and Opioid and Suicide Loss in the Workplace.  
+As a certified education and training provider through OASAS Anna regularly offers trainings in the community including Screening, Brief Intervention and Referral to Treatment (SBIRT), Clinical Supervision Foundations, New Ethical Dilemmas in the Digital Age and Opioid and Suicide Loss in the Workplace.  
 
 In additional to her affiliations with OASAS, she is also a community advisory board member of the Clinical and Translational Science Center at Weill Cornell Medicine. 
 
