@@ -11,9 +11,9 @@ Anna Verbraak is a Credentialed Alcoholism and Substance Abuse Counselor (CASAC)
 
 She has also held previous positions as a substance abuse specialist in a primary care, diversion court and at the Administration  for Children’s Services (ACS) in NYC. 
 
-Anna has also taught the 350 hour CASAC program at Rockland Council on Alcoholism and Other Drug Dependence (RCADD) as well as Dutchess Community College. 
+Anna teaches the 350 hour CASAC program at Rockland Council on Alcoholism and Other Drug Dependence (RCADD) and at Dutchess Community College. 
 
-As a certified education and training provider through OASAS Anna regularly offers trainings in the community including Screening, Brief Intervention and Referral to Treatment (SBIRT), Clinical Supervision Foundations, New Ethical Dilemmas in the Digital Age and Opioid and Suicide Loss in the Workplace.  
+As a certified education and training provider through OASAS, Anna regularly offers trainings in the community including Screening, Brief Intervention and Referral to Treatment (SBIRT), Clinical Supervision Foundations, New Ethical Dilemmas in the Digital Age and Opioid and Suicide Loss in the Workplace.  
 
-In additional to her affiliations with OASAS, she is also a community advisory board member of the Clinical and Translational Science Center at Weill Cornell Medicine. 
+In addition to her affiliations with OASAS, she is also a community advisory board member of the Clinical and Translational Science Center at Weill Cornell Medicine. 
 
