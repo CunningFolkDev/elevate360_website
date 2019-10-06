@@ -6,8 +6,8 @@ section-image-1: training@2x.jpg
 layout: trainings
 ---
 
-The Wholeview team is a group of skilled psychologists who are clinicians, researchers, and experts in addiction and the conditions that commonly occur along with substance use.  
-We routinely provide a variety of trainings both at Wholeview and in the community. 
+The Wholeview Wellness team is a group of skilled psychologists who are clinicians, researchers, and experts in addiction and the conditions that commonly occur along with substance use.  
+We routinely provide a variety of trainings both at Wholeview Wellness and in the community. 
 
 These trainings include:
 • Opioid Overdose Prevention Program (OOPP)

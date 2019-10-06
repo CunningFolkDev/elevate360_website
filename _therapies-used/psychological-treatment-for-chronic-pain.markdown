@@ -13,7 +13,7 @@ back_title: Therapies Used
 layout: tertiary
 ---
 
-Many medical practitioners treat pain exclusively as a medical problem.  But at Wholeview, we think of pain as a biopsychosocial condition and we pay careful attention to the psychological and social aspects of pain in the context of the medical disorder. Psychological treatment can provide people with tools to better control their experience of pain.  Our treatment also focuses on helping people learn ways to manage all aspects of self-care so that they are best able to utilize pain management techniques.
+Many medical practitioners treat pain exclusively as a medical problem.  But at Wholeview Wellness, we think of pain as a biopsychosocial condition and we pay careful attention to the psychological and social aspects of pain in the context of the medical disorder. Psychological treatment can provide people with tools to better control their experience of pain.  Our treatment also focuses on helping people learn ways to manage all aspects of self-care so that they are best able to utilize pain management techniques.
 
 We emphasize the engagement of our patients in organizing and managing their daily routines to improve overall functioning and to reduce reliance on medications for pain.
 

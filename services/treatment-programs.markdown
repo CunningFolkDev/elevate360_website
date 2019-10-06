@@ -11,7 +11,7 @@ seo_keywords: drug treatment programs NY, drug treatment programs Midtown Manhat
 collection: treatment-programs
 footer-section:
   title: DWI Screening & Assessment
-  callout: Several Wholeview psychologists are OASAS approved providers of clinical
+  callout: Several Wholeview Wellness psychologists are OASAS approved providers of clinical
     screening and assessment services for the NYS Impaired Driving Offender program.
   copy: If you have been charged with or convicted of an impaired driving offense
     and require screening or assessment services, call !PHONE_NUMBER! to get further
@@ -20,4 +20,4 @@ callout: true
 layout: services
 ---
 
-Treatment is individually tailored to each patient and can be modified as necessary to meet the specific needs of each patient. The following are the levels of care available at Wholeview and examples of typical treatment schedules.
+Treatment is individually tailored to each patient and can be modified as necessary to meet the specific needs of each patient. The following are the levels of care available at Wholeview Wellness and examples of typical treatment schedules.

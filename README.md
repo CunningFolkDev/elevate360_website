@@ -1,5 +1,5 @@
 # elevate360_website
-Wholeview static website. 
+Wholeview Wellness static website. 
 
 Github: https://github.com/CunningFolkDev/elevate360_website
 
