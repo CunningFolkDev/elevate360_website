@@ -8,9 +8,9 @@ h2: In short, because we do treatment right.
 hero-content: Our professional staff uses proven therapeutic techniques and technology
   to provide care which aims to help each patient develop a meaningful life in recovery
   that is more compelling than a life consumed with substance use.
-seo_description: Wholeview Wellness is advancing addiction treatment by using therapeutic techniques
-  and science-based health technology to support recovery and wellness. Consult our
-  expert psychologists.
+seo_description: Wholeview Wellness is advancing addiction treatment by using therapeutic
+  techniques and science-based health technology to support recovery and wellness.
+  Consult our expert psychologists.
 seo_keywords: therapeutic techniques, therapeutic techniques for anxiety, evidence
   based treatment addiction Manhattan, Addiction psychologists, Addiction experts,
   Science-based health technology
