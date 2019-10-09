@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 
 gem 'jekyll', '<4'
 gem 'minima'
-gem 'sprockets', '4.0.beta7'
+gem 'sprockets', '4.0.0.beta7'
 
 group :jekyll_plugins do
   gem 'jekyll-assets'
