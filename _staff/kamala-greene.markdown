@@ -9,7 +9,7 @@ photo_left: true
 back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/A3__Wf-24g4
-show_zencare: true
+show_zencare: false
 zencare_slug: kamala-genece
 layout: quarternary
 ---
