@@ -9,7 +9,7 @@ photo_left: true
 back_href: "/about-us/our-staff"
 back_title: Our Staff
 video_src: https://www.youtube.com/embed/Fw5a970J_2o
-show_zencare: true
+show_zencare: false
 layout: quarternary
 ---
 
