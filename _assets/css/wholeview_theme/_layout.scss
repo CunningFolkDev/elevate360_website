@@ -549,15 +549,18 @@ a.nav-icon {
     h3 {
         flex: 0 1 100%;
         margin: 0 0 64px 0;
+        display: flex;
 
         @media screen and (max-width: 768px) {
             margin-bottom: 24px;
         }
 
         .text {
-            display: block;
-            position: absolute;
-            @include hide-text;
+            font-weight: lighter;
+            margin-left: 10px;
+            align-self: flex-end;
+            text-transform: lowercase;
+            letter-spacing: 1.5px;
         }
         .icon {
             display: block;
