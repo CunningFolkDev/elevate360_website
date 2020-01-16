@@ -1,6 +1,6 @@
 ---
 title: Psychodynamic Therapy Group for Substance Use Issues
-position: 6
+position: 7
 meeting_time: Tuesdays 6:00pm-7:00pm
 ---
 

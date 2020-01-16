@@ -1,6 +1,7 @@
 ---
 title: DBT Night Group
 date: 2020-01-16 15:33:00 -05:00
+position: 4
 meeting_time: Tuesdays (6:30PM-7:30PM)
 ---
 
