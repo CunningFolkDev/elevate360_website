@@ -1,7 +1,7 @@
 ---
-title: Psychodynamic Therapy Group for Substance Use Issues
+title: Sustained Recovery Group for Professionals
 position: 7
-meeting_time: Tuesdays 6:00pm-7:00pm
+meeting_time: Wednesdays 6:30pm-7:30pm
 ---
 
-Dr. Bill Gottdiener leads this psychodynamic therapy group that meets for 60 minutes and runs for 24 weeks. Group members are supported in discussing their personal experiences and are taught expressive techniques to assist in identifying and working through interpersonal relationship issues. Group members are encouraged to examine how alcohol and drugs are used in relation to their emotions and behaviors and learn methods of problem solving that avoid the use of alcohol and drugs. The safe-space of the group enables group members to address and resolve difficult feelings and problematic relationship patterns that may arise in the group. As members are better able to understand and express their internal experiences and emotions, they are less inclined to use drugs and alcohol in problematic ways.
+Dr. Kamala Genece Greene designed this 60-minute group for professionals in recovery who have decided that abstinence works best for their lifestyle. This group will assist group members in their efforts to achieve a healthy work-life balance that allows for sustained positive changes and will offer support during life’s inevitable challenges. The therapist will provide support and will offer skills and strategies for preventing relapse and coping with stress, managing negative moods and achieving a healthy sustainable lifestyle.
