@@ -1,6 +1,7 @@
 ---
 title: Community Reinforcement Approach & Weekend Planning
 date: 2020-01-16 15:36:00 -05:00
+position: 8
 meeting_time: Fridays (10:30AM- 12:00PM)
 ---
 

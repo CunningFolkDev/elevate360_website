@@ -1,6 +1,6 @@
 ---
 title: Acceptance and Commitment Therapy
-position: 8
+position: 10
 meeting_time: Saturdays  Noon-1:00PM
 ---
 
