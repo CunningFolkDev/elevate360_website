@@ -1,7 +1,7 @@
 ---
 title: Acceptance and Commitment Therapy
 position: 6
-meeting_time: Thursdays 6:00pm-7:00pm
+meeting_time: Saturdays  Noon-1:00PM
 ---
 
 We all experience situations we cannot control, behaviors that are hard to change, and intense emotions.  These can be triggers for behaviors (e.g., substance use, isolation) that reduce our ability to function effectively.  This interferes with our ability to engage with what we care about such as family, friends, work, and self-care.  As a result, we become stuck in a cycle of negative behavior that makes it harder and harder to achieve what we want in life.
