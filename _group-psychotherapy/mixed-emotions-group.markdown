@@ -1,7 +1,7 @@
 ---
 title: Mixed Emotions Group
 date: 2019-06-26 12:07:00 -04:00
-position: 3
+position: 4
 meeting_time: Mondays
 ---
 
