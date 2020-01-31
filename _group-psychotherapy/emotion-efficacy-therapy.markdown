@@ -1,6 +1,7 @@
 ---
 title: Emotion Efficacy Therapy
 date: 2020-01-31 11:29:00 -05:00
+position: 1
 meeting_time: "  Wednesday 10:30am-12:00pm "
 ---
 

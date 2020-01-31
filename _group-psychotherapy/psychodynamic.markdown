@@ -1,6 +1,6 @@
 ---
 title: Sustained Recovery Group for Professionals
-position: 7
+position: 8
 meeting_time: Wednesdays (6:30PM-7:30PM)
 ---
 

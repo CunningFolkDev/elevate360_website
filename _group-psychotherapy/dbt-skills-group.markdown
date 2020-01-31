@@ -3,7 +3,7 @@ title: DBT Skills Group
 date: 2019-06-26 12:18:00 -04:00
 tags:
 - DBT Skills Group
-position: 6
+position: 7
 meeting_time: Wednesdays (12:30PM - 2:00PM)
 ---
 
