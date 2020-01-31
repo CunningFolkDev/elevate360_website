@@ -1,6 +1,6 @@
 ---
 title: Mindfulness Support Network
-position: 2
+position: 1
 meeting_time: 'Mondays (10:30AM-12:00PM) '
 ---
 
