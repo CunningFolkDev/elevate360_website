@@ -142,6 +142,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 *(Effective 2/3/20)*
 
 **Your Information. Your Rights. Our Responsibilities.**
+
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
 * Get a copy of your paper or electronic medical record
@@ -160,7 +161,8 @@ This notice describes how medical information about you may be used and disclose
 
 * File a complaint if you believe your privacy rights have been violated
 
-**Your Choices**\
+**Your Choices**
+
 You have some choices in the way that we use and share information as we:
 
 * Tell family and friends about your condition
@@ -175,7 +177,8 @@ You have some choices in the way that we use and share information as we:
 
 * Raise funds
 
-**Our Uses and Disclosures**\
+**Our Uses and Disclosures**
+
 We may use and share your information as we:
 
 * Treat you
