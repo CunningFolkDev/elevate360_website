@@ -163,7 +163,7 @@ This notice describes how medical information about you may be used and disclose
 
 * File a complaint if you believe your privacy rights have been violated
 
-Your Choices
+**Your Choices**
 
 You have some choices in the way that we use and share information as we
 
