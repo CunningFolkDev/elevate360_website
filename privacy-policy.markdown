@@ -165,7 +165,7 @@ This notice describes how medical information about you may be used and disclose
 
 **Your Choices**
 
-You have some choices in the way that we use and share information as we:
+You have some choices in the way that we use and share information as we
 
 * Tell family and friends about your condition
 
@@ -181,7 +181,7 @@ You have some choices in the way that we use and share information as we:
 
 **Our Uses and Disclosures**
 
-We may use and share your information as we:
+We may use and share your information as we
 
 * Treat you
 
