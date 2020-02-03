@@ -45,11 +45,14 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-* **Session Cookies.**  We use Session Cookies to operate our Service.
+* **Session Cookies.**  
+We use Session Cookies to operate our Service.
 
-* **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
+* **Preference Cookies.**  
+We use Preference Cookies to remember your preferences and various settings.
 
-* **Security Cookies.**  We use Security Cookies for security purposes.
+* **Security Cookies.**  
+We use Security Cookies for security purposes.
 
 #### Use of Data
 
@@ -138,7 +141,6 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### How Wholeview Wellness treats Protected Health Information (PHI)
-
 *(Effective 2/3/20)*
 
 **Your Information. Your Rights. Our Responsibilities.**
@@ -249,15 +251,15 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 * You can complain if you feel we have violated your rights by contacting us using the information on page 1.
 
-* You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting **[www.hhs.gov/ocr/privacy/hipaa/complaints/](www.hhs.gov/ocr/privacy/hipaa/complaints/)**
+* You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](www.hhs.gov/ocr/privacy/hipaa/complaints/)
 
 * We will not retaliate against you for filing a complaint.
 
 **Your Choices**
 
-*For certain health information, you can tell us your choices about what we share. 
+For certain health information, you can tell us your choices about what we share. 
 
-*If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
+If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
 
 In these cases, you have both the right and choice to tell us to:
 
@@ -279,7 +281,7 @@ In the case of fundraising:
 
 * We may contact you for fundraising efforts, but you can tell us not to contact you again.
 
-###Our Uses and Disclosures
+### Our Uses and Disclosures
 
 **How do we typically use or share your health information?**
 
