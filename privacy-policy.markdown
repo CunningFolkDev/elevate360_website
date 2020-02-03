@@ -376,5 +376,4 @@ You can contact our Privacy Officer, Roger Chong at 212-204-8430 or [rchong@whol
 If you have any questions about this Privacy Policy, please contact us:
 
 * By email: info@wholeview.co
-
 * By phone: 212-204-8430
