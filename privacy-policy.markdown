@@ -263,7 +263,7 @@ In these cases, you have both the right and choice to tell us to:
 
 * Share information in a disaster relief situation
 
-*If you are not able to tell us your preference, for example if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.*
+*If you are not able to tell us your preference, for example, if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.*
 
 In these cases, we never share your information unless you give us written permission:
 
