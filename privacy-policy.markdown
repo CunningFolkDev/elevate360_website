@@ -160,8 +160,7 @@ This notice describes how medical information about you may be used and disclose
 
 * File a complaint if you believe your privacy rights have been violated
 
-**Your Choices**
-
+**Your Choices**\
 You have some choices in the way that we use and share information as we:
 
 * Tell family and friends about your condition
@@ -176,8 +175,7 @@ You have some choices in the way that we use and share information as we:
 
 * Raise funds
 
-**Our Uses and Disclosures**
-
+**Our Uses and Disclosures**\
 We may use and share your information as we:
 
 * Treat you
@@ -202,7 +200,7 @@ We may use and share your information as we:
 
 **Your Rights**
 
-**When it comes to your health information, you have certain rights. **This section explains your rights and some of our responsibilities to help you.
+When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you.
 
 **Get an electronic or paper copy of your medical record**
 
@@ -254,7 +252,7 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 **Your Choices**
 
-**For certain health information, you can tell us your choices about what we share. **If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
+\*\*For certain health information, you can tell us your choices about what we share. \*\*If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
 
 In these cases, you have both the right and choice to tell us to:
 
