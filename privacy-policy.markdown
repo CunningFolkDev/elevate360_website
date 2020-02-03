@@ -248,11 +248,9 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 * You can complain if you feel we have violated your rights by contacting us using the information on page 1.
 
-* You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting **www.hhs.gov/ocr/privacy/hipaa/complaints/.**
+* You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting **[www.hhs.gov/ocr/privacy/hipaa/complaints/](www.hhs.gov/ocr/privacy/hipaa/complaints/)**
 
 * We will not retaliate against you for filing a complaint.
-
-\
 
 **Your Choices**
 
@@ -278,7 +276,7 @@ In the case of fundraising:
 
 * We may contact you for fundraising efforts, but you can tell us not to contact you again.
 
-**Our Uses and Disclosures**
+### **Our Uses and Disclosures**
 
 **How do we typically use or share your health information?**
 
@@ -290,25 +288,17 @@ We can use your health information and share it with other professionals who are
 
 *Example: A doctor treating you for an injury asks another doctor about your overall health condition.*
 
-\
-
 **Run our organization**
 
 We can use and share your health information to run our practice, improve your care, and contact you when necessary.
 
 *Example: We use health information about you to manage your treatment and services.*
 
-\
-
 **Bill for your services**
 
 We can use and share your health information to bill and get payment from health plans or other entities.
 
-\
-
 *Example: We give information about you to your health insurance plan so it will pay for your services.*
-
-\
 
 **How else can we use or share your health information?**
 
