@@ -255,7 +255,9 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 **Your Choices**
 
-\*\*For certain health information, you can tell us your choices about what we share. \*\*If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
+*For certain health information, you can tell us your choices about what we share. 
+
+*If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
 
 In these cases, you have both the right and choice to tell us to:
 
@@ -277,7 +279,7 @@ In the case of fundraising:
 
 * We may contact you for fundraising efforts, but you can tell us not to contact you again.
 
-### **Our Uses and Disclosures**
+###Our Uses and Disclosures
 
 **How do we typically use or share your health information?**
 
@@ -365,7 +367,7 @@ For more information see: [www.hhs.gov/ocr/privacy/hipaa/understanding/consumers
 
 Changes to the Terms of this Notice
 
-We can change the terms of this notice, and the changes will apply to all information we have about you. The new notice will be available upon request, in our office, and on our website.
+We can change the terms of this notice, and the changes will apply to all the information we have about you. The new notice will be available upon request, in our office, and on our website.
 
 You can contact our Privacy Officer, Roger Chong at 212-204-8430 or [rchong@wholeview.co](mailto:rchong@wholeview.co) with any questions about this notice.
 
