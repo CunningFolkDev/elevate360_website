@@ -384,4 +384,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
 * By email: info@wholeview.co
 
-* By phone: !PHONE_NUMBER!
+* By phone: 212-204-8430
