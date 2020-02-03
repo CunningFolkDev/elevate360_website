@@ -141,6 +141,7 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### How Wholeview Wellness treats Protected Health Information (PHI)
+
 *(Effective 2/3/20)*
 
 **Your Information. Your Rights. Our Responsibilities.**
