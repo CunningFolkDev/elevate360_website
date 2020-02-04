@@ -166,7 +166,8 @@ You have some choices in the way that we use and share information as we
 * Market our services and sell your information
 * Raise funds
 
-### Our Uses and Disclosures  
+### Our Uses and Disclosures 
+ 
 We may use and share your information as we
 
 * Treat you
