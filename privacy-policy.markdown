@@ -278,7 +278,7 @@ We can use and share your health information to bill and get payment from health
 
 We are allowed or required to share your information in other ways – usually in ways that contribute to the public good, such as public health and research. We have to meet many conditions in the law before we can share your information for these purposes. For more information see: [www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/index.html)**.**
 
-**Help with public health and safety issues**
+#### Help with public health and safety issues  
 
 We can share health information about you for certain situations such as:
 
