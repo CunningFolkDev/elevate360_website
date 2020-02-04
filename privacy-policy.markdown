@@ -208,7 +208,6 @@ When it comes to your health information, you have certain rights. This section 
 **Get a list of those with whom we’ve shared information**
 
 * You can ask for a list (accounting) of the times we’ve shared your health information for six years prior to the date you ask, who we shared it with, and why.
-
 * We will include all the disclosures except for those about treatment, payment, and health care operations, and certain other disclosures (such as any you asked us to make). We’ll provide one accounting a year for free but will charge a reasonable, cost-based fee if you ask for another one within 12 months.
 
 **Get a copy of this privacy notice**
@@ -218,13 +217,11 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 **Choose someone to act for you**
 
 * If you have given someone medical power of attorney or if someone is your legal guardian, that person can exercise your rights and make choices about your health information.
-
 * We will make sure the person has this authority and can act for you before we take any action.
 
 **File a complaint if you feel your rights are violated**
 
 * You can complain if you feel we have violated your rights by contacting us using the information on page 1.
-
 * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/](www.hhs.gov/ocr/privacy/hipaa/complaints/)
 
 * We will not retaliate against you for filing a complaint.
@@ -238,17 +235,13 @@ If you have a clear preference for how we share your information in the situatio
 In these cases, you have both the right and choice to tell us to:
 
 * Share information with your family, close friends, or others involved in your care
-
 * Share information in a disaster relief situation
-
 *If you are not able to tell us your preference, for example, if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.*
 
 In these cases, we never share your information unless you give us written permission:
 
 * Marketing purposes
-
 * Sale of your information
-
 * Most sharing of psychotherapy notes
 
 In the case of fundraising:
@@ -288,13 +281,9 @@ We are allowed or required to share your information in other ways – usually i
 We can share health information about you for certain situations such as:
 
 * Preventing disease
-
 * Helping with product recalls
-
 * Reporting adverse reactions to medications
-
 * Reporting suspected abuse, neglect, or domestic violence
-
 * Preventing or reducing a serious threat to anyone’s health or safety
 
 **Do research**
@@ -318,11 +307,8 @@ We can share health information with a coroner, medical examiner, or funeral dir
 We can use or share health information about you:
 
 * For workers’ compensation claims
-
 * For law enforcement purposes or with a law enforcement official
-
 * With health oversight agencies for activities authorized by law
-
 * For special government functions such as military, national security, and presidential protective services
 
 **Respond to lawsuits and legal actions**
@@ -332,11 +318,8 @@ We can share health information about you in response to a court or administrati
 **Our Responsibilities**
 
 * We are required by law to maintain the privacy and security of your protected health information.
-
 * We will let you know promptly if a breach occurs that may have compromised the privacy or security of your information.
-
 * We must follow the duties and privacy practices described in this notice and give you a copy of it.
-
 * We will not use or share your information other than as described here unless you tell us we can in writing. If you tell us we can, you may change your mind at any time. Let us know in writing if you change your mind.
 
 For more information see: [www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html](http://www.hhs.gov/ocr/privacy/hipaa/understanding/consumers/noticepp.html)
