@@ -156,7 +156,7 @@ This notice describes how medical information about you may be used and disclose
 * Choose someone to act for you
 * File a complaint if you believe your privacy rights have been violated
 
-**Your Choices**
+**Your Choices**  
 You have some choices in the way that we use and share information as we
 
 * Tell family and friends about your condition
@@ -166,7 +166,7 @@ You have some choices in the way that we use and share information as we
 * Market our services and sell your information
 * Raise funds
 
-### Our Uses and Disclosures
+### Our Uses and Disclosures  
 We may use and share your information as we
 
 * Treat you
@@ -180,7 +180,7 @@ We may use and share your information as we
 * Address workers’ compensation, law enforcement, and other government requests
 * Respond to lawsuits and legal actions
 
-**Your Rights**
+**Your Rights** 
 
 When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you.
 
@@ -195,7 +195,6 @@ When it comes to your health information, you have certain rights. This section 
 * We may say “no” to your request, but we’ll tell you why in writing within 60 days.
 
 **Request confidential communications**
-
 * You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.
 
 * We will say “yes” to all reasonable requests.
@@ -203,7 +202,6 @@ When it comes to your health information, you have certain rights. This section 
 **Ask us to limit what we use or share**
 
 * You can ask us not to use or share certain health information for treatment, payment, or our operations. We are not required to agree to your request, and we may say “no” if it would affect your care.
-
 * If you pay for a service or health care item out-of-pocket in full, you can ask us not to share that information for the purpose of payment or our operations with your health insurer. We will say “yes” unless a law requires us to share that information.
 
 **Get a list of those with whom we’ve shared information**
