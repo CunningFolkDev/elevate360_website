@@ -141,7 +141,6 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### How Wholeview Wellness treats Protected Health Information (PHI)
-
 *(Effective 2/3/20)*
 
 **Your Information. Your Rights. Our Responsibilities.**
@@ -149,57 +148,36 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
 * Get a copy of your paper or electronic medical record
-
 * Correct your paper or electronic medical record
-
 * Request confidential communication
-
 * Ask us to limit the information we share
-
 * Get a list of those with whom we’ve shared your information
-
 * Get a copy of this privacy notice
-
 * Choose someone to act for you
-
 * File a complaint if you believe your privacy rights have been violated
 
 **Your Choices**
 You have some choices in the way that we use and share information as we
 
 * Tell family and friends about your condition
-
 * Provide disaster relief
-
 * Include you in a hospital directory
-
 * Provide mental health care
-
 * Market our services and sell your information
-
 * Raise funds
 
 ### Our Uses and Disclosures
 We may use and share your information as we
 
 * Treat you
-
 * Run our organization
-
 * Bill for your services
-
 * Help with public health and safety issues
-
 * Do research
-
 * Comply with the law
-
 * Respond to organ and tissue donation requests
-
 * Work with a medical examiner or funeral director
-
 * Address workers’ compensation, law enforcement, and other government requests
-
 * Respond to lawsuits and legal actions
 
 **Your Rights**
@@ -209,13 +187,11 @@ When it comes to your health information, you have certain rights. This section 
 **Get an electronic or paper copy of your medical record**
 
 * You can ask to see or get an electronic or paper copy of your medical record and other health information we have about you. Ask us how to do this.
-
 * We will provide a copy or a summary of your health information, usually within 30 days of your request. We may charge a reasonable, cost-based fee.
 
 **Ask us to correct your medical record**
 
 * You can ask us to correct health information about you that you think is incorrect or incomplete. Ask us how to do this.
-
 * We may say “no” to your request, but we’ll tell you why in writing within 60 days.
 
 **Request confidential communications**
