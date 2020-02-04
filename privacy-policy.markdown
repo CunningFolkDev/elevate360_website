@@ -144,7 +144,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
  
 *(Effective 2/3/20)*
 
-#### Your Information. Your Rights. Our Responsibilities.**
+#### Your Information. Your Rights. Our Responsibilities.
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
@@ -198,8 +198,8 @@ When it comes to your health information, you have certain rights. This section 
 * We may say “no” to your request, but we’ll tell you why in writing within 60 days.
 
 **Request confidential communications**
-* You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.
 
+* You can ask us to contact you in a specific way (for example, home or office phone) or to send mail to a different address.
 * We will say “yes” to all reasonable requests.
 
 **Ask us to limit what we use or share**
@@ -228,7 +228,7 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 * We will not retaliate against you for filing a complaint.
 
-#### Your Choices  
+#### Your Choices    
 
 For certain health information, you can tell us your choices about what we share. 
 
@@ -238,7 +238,7 @@ In these cases, you have both the right and choice to tell us to:
 
 * Share information with your family, close friends, or others involved in your care
 * Share information in a disaster relief situation
-*If you are not able to tell us your preference, for example, if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.*
+* If you are not able to tell us your preference, for example, if you are unconscious, we may go ahead and share your information if we believe it is in your best interest. We may also share your information when needed to lessen a serious and imminent threat to health or safety.*
 
 In these cases, we never share your information unless you give us written permission:
 
