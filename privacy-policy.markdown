@@ -144,7 +144,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
  
 *(Effective 2/3/20)*
 
-**Your Information. Your Rights. Our Responsibilities.**
+#### Your Information. Your Rights. Our Responsibilities.**
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.
 
@@ -157,7 +157,7 @@ This notice describes how medical information about you may be used and disclose
 * Choose someone to act for you
 * File a complaint if you believe your privacy rights have been violated
 
-**Your Choices**  
+#### Your Choices  
 
 You have some choices in the way that we use and share information as we
 
@@ -183,7 +183,7 @@ We may use and share your information as we
 * Address workers’ compensation, law enforcement, and other government requests
 * Respond to lawsuits and legal actions
 
-**Your Rights** 
+#### Your Rights 
 
 When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you.
 
@@ -228,7 +228,7 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 * We will not retaliate against you for filing a complaint.
 
-**Your Choices**
+#### Your Choices  
 
 For certain health information, you can tell us your choices about what we share. 
 
@@ -250,7 +250,7 @@ In the case of fundraising:
 
 * We may contact you for fundraising efforts, but you can tell us not to contact you again.
 
-### Our Uses and Disclosures
+#### Our Uses and Disclosures  
 
 **How do we typically use or share your health information?**
 
