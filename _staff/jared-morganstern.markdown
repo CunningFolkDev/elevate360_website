@@ -1,6 +1,7 @@
 ---
 title: Jared Morganstern
 date: 2020-02-07 16:25:00 -05:00
+position: 10
 full_title: Jared Morgenstern, LCSW
 job_title: Clinician
 photo: "/uploads/Jared%20Morgenstern-812ae7.jpg"
