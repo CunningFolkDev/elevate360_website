@@ -533,12 +533,6 @@ a.nav-icon {
     background-color: $dark-grey;
     color: #fff;
     // height: 367px;
-    display: flex;
-    flex-basis: 100%;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-content: center;
     padding: 5%;
 
     @media screen and (max-width: 768px) {
@@ -546,38 +540,54 @@ a.nav-icon {
         height: auto;
     }
 
-    h3 {
-        flex: 0 1 100%;
-        margin: 0 0 64px 0;
-        display: flex;
+    .footer-logos, .footer-links {
+      display: flex;
+      flex-basis: 100%;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-content: center;
 
-        @media screen and (max-width: 768px) {
-            margin-bottom: 24px;
-        }
+      // LegitScript logo
+      script + a {
+        margin-top: -24px;
+      }
 
-        .text {
-            font-weight: lighter;
-            margin-left: 10px;
-            align-self: flex-end;
-            text-transform: lowercase;
-            letter-spacing: 1.5px;
-        }
-        .icon {
-            display: block;
-            width: 38px;
+      h3 {
+          flex: 0 1 15em;
+          margin: 0 0 64px 0;
+          display: flex;
 
-            @media screen and (max-width: 450px) {
-                width: 24px;
-            }
+          @media screen and (max-width: 768px) {
+              margin-bottom: 24px;
+          }
 
-            svg {
-                path {
-                    &.base { fill: $avocado; }
-                    &.top { fill: #fbfbfb; }
-                }
-            }
-        }
+          .text {
+              font-weight: lighter;
+              margin-left: 10px;
+              align-self: flex-end;
+              text-transform: lowercase;
+              letter-spacing: 1.5px;
+          }
+          .icon {
+              display: block;
+              width: 38px;
+
+              @media screen and (max-width: 450px) {
+                  width: 24px;
+              }
+
+              svg {
+                  path {
+                      &.base { fill: $avocado; }
+                      &.top { fill: #fbfbfb; }
+                  }
+              }
+          }
+      }
     }
+
+
 
     #quick_links, #customer_care, #location {
         display: flex;
