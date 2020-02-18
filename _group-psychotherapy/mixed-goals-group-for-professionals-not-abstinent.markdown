@@ -1,5 +1,5 @@
 ---
-title: Mixed Goals Group for Professionals ( not abstinent)
+title: Mixed Goals Group for Professionals (not abstinent)
 date: 2020-01-16 15:28:00 -05:00
 position: 3
 meeting_time: Mondays (6:30PM-7:30PM)
