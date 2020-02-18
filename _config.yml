@@ -160,6 +160,10 @@ defaults:
   values:
     title:
     meeting_time: e.g. Thursdays 6:00pm-7:00pm
+    back_href: "/services/group-psychotherapy"
+    back_title: Group Psychotherapy
+    permalink: "/services/group-psychotherapy/:title/"
+    layout: tertiary
 - scope:
     path: ''
     type: how-we-treat

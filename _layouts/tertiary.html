@@ -64,6 +64,11 @@ The `back_title` and `photo_alt` are not used if their respect `back_href` and `
           <img src="{% asset '{{ page_photo }}' @path %}" alt="{% if page.photo_alt %}{{ page.photo_alt }}{% else %}{{ page.title }}{% endif %}">
         </div>
       {% endif %}
+      {% if page.meeting_time %}
+        <p>
+          <strong>{{ page.meeting_time }}</strong>
+        </p>
+      {% endif %}
       {{ content_with_phone_num }}
       {% if page.video_src %}
       <div class="video-embed only-desktop">

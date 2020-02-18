@@ -2,7 +2,10 @@
 title: Mindfulness Support Network
 position: 1
 meeting_time: Mondays (10:30AM-12:00PM)
+permalink: "/services/group-psychotherapy/:title/"
 layout: tertiary
+back_href: "/services/group-psychotherapy"
+back_title: Group Psychotherapy
 ---
 
 This mindfulness-based psychotherapy group is for people who are interested in exploring their relationship with alcohol and drugs.
