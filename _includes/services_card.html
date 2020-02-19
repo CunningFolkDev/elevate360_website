@@ -9,9 +9,14 @@
 <div class="card services-card">
     <div class="card-inner">
       <h4>{{ include.card.title }}</h4>
+      {% if include.card.meeting_time %}
+      <p>
+        <strong>{{ include.card.meeting_time }}</strong>
+      </p>
+      {% endif %}
       {{ excerpt_with_phone_num }}
     </div>
-    {% if include.card.content.size > include.card.excerpt.size %}
+    {% if (include.card.content.size > include.card.excerpt.size) or page.always_show_learn_more %}
         <a href="{{ card_href }}" class="learn-more">Learn More &#x2192;</a>
     {% endif %}
 </div>

@@ -22,7 +22,7 @@
         transition: all 0.2s cubic-bezier(0.49, 0.99, 0.54, 0.98);
 
         &.why { max-height: 225px; }
-        &.services { max-height: 175px; }
+        &.services { max-height: 200px; }
         &.about { max-height: 175px; }
     }
 
@@ -1545,6 +1545,7 @@ section.type2 {
             margin: 60px auto;
         }
 
+        // Only display this card when there are no upcoming events
         .services-card.blank-upcoming-events {
           &:not(:only-child) {
             display: none;
