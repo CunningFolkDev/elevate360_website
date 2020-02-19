@@ -1,10 +1,11 @@
 ---
 title: Group Psychotherapy Offerings
+date: 2020-02-17 10:51:00 -05:00
 crumbtitle: Group Psychotherapy
-date: 2020-02-17 11:51:00 -04:00
 seo_title: Group Psychotherapy
-seo_description: All groups take place at Wholeview Wellness, 369 Lexington Avenue, Suite 14A (at 41st St.)
-  We welcome participants who receive individual treatment with other providers.
+seo_description: All groups take place at Wholeview Wellness, 369 Lexington Avenue,
+  Suite 14A (at 41st St.) We welcome participants who receive individual treatment
+  with other providers.
 seo_keywords: drug treatment programs NY, drug treatment programs Midtown Manhattan,
   substance abuse treatment program ny, naltrexone for alcohol, vivitrol shot, Suboxone,
   Buprenorphine near me

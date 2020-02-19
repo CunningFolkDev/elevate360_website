@@ -8,5 +8,4 @@ back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
 ---
 
-
 Emotion Efficacy Therapy (EET) is an evidenced-based therapeutic approach that is rooted on the premise that emotions are valuable signals that guide our behaviors.  Learning to skillfully navigate these messages is an integral component to living a more well-balanced and fulfilling life. Through cultivating skills in an open and collaborative environment, participants will enhance their capacity to make values-consistent choices. A focus will be placed on exploring ways to achieve your ideal healthy relationship with substances while supporting your goals in various life domains. To accelerate learning, EET involves an experiential component, and session content promotes relaxation techniques, mindfulness approaches, and various coping strategies. Ultimately, developing ‘high-emotion efficacy’ will empower you to live more authentically, intentionally, and with greater meaning and purpose.
