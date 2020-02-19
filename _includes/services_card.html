@@ -16,7 +16,7 @@
       {% endif %}
       {{ excerpt_with_phone_num }}
     </div>
-    {% if include.card.content.size > include.card.excerpt.size %}
+    {% if (include.card.content.size > include.card.excerpt.size) or page.always_show_learn_more %}
         <a href="{{ card_href }}" class="learn-more">Learn More &#x2192;</a>
     {% endif %}
 </div>

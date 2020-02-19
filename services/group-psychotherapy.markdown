@@ -11,6 +11,7 @@ seo_keywords: drug treatment programs NY, drug treatment programs Midtown Manhat
 collection: group-psychotherapy
 callout: false
 footer-section: false
+always_show_learn_more: true
 layout: services
 ---
 
