@@ -1,6 +1,7 @@
 ---
 title: 'Trauma: Learning, Resourcing, and Reprocessing'
 date: 2020-02-21 11:59:00 -05:00
+position: 11
 meeting_time: Thursdays (6:30pm- 7:30pm)
 ---
 
