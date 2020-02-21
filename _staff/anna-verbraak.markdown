@@ -2,12 +2,12 @@
 title: Anna Verbraak
 date: 2019-10-01 12:40:00 -04:00
 position: 9
-full_title: Anna Verbraak
+full_title: 'Anna DeCirce '
 job_title: Clinical Coordinator
 photo: "/uploads/Anna%20Verbraak%20Head%20Shot_long.jpg"
 ---
 
-Anna Verbraak is a Credentialed Alcoholism and Substance Abuse Counselor (CASAC) with 10 years experience in the field of substance use disorders. Anna graduated from SUNY Broome with an Associate’s in Chemical Dependency Counseling and a Bachelor’s in Human Services from SUNY Empire. She has worked in several substance abuse treatment modalities including detox, inpatient, outpatient and congregate care settings. 
+Anna DeCirce is a Credentialed Alcoholism and Substance Abuse Counselor (CASAC) with 10 years experience in the field of substance use disorders. Anna graduated from SUNY Broome with an Associate’s in Chemical Dependency Counseling and a Bachelor’s in Human Services from SUNY Empire. She has worked in several substance abuse treatment modalities including detox, inpatient, outpatient and congregate care settings. 
 
 She has also held previous positions as a substance abuse specialist in a primary care, diversion court and at the Administration  for Children’s Services (ACS) in NYC. 
 
