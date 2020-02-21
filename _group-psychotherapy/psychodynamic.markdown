@@ -1,6 +1,6 @@
 ---
 title: Sustained Recovery Group for Professionals
-position: 9
+position: 10
 meeting_time: Wednesdays (6:30PM-7:30PM)
 layout: tertiary
 back_href: "/services/group-psychotherapy"

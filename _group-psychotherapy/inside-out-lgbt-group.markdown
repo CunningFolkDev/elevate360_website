@@ -1,7 +1,7 @@
 ---
 title: Inside Out-LGBT Group
 date: 2020-02-21 11:23:00 -05:00
-position: 10
+position: 6
 meeting_time: 'Tuesdays (6:30PM-7:30PM) '
 ---
 
