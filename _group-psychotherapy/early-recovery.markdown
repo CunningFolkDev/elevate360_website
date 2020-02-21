@@ -1,6 +1,7 @@
 ---
 title: Early Recovery
 date: 2020-02-21 11:44:00 -05:00
+position: 4
 meeting_time: 'Tuesdays (10:30AM-12:00PM) '
 ---
 
