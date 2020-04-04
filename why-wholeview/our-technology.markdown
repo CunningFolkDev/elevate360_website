@@ -9,10 +9,10 @@ seo_keywords: ACHESS app, CHESS health app, sober tools, Connections recovery ap
 layout: our_technology
 background-image: hero-technology@2x.jpg
 section-image-1: chess-photo@2x.jpg
-hero_content: Wholeview Wellness offers technological recovery support to our patients
+hero_content: Wholeview Wellness&reg; offers technological recovery support to our patients
   including the Connections Mobile app which gives them 24/7 support in their pockets.
 h2: Connections Mobile App
-h3: Wholeview Wellness partnered with CHESS Health to provide the Connections mobile
+h3: Wholeview Wellness&reg; partnered with CHESS Health to provide the Connections mobile
   app to our patients.
 ---
 

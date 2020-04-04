@@ -6,7 +6,7 @@ post_image: "/uploads/Vivitrol%20Medication.jpg"
 seo_keywords: 'Vivitrol, Narcan, Opioid Antagonists, Opioid Use Disorder '
 ---
 
-Dr. Sarah Church, a clinical psychologist and executive director of Wholeview Wellness in New York, shares important details about Vivitrol.
+Dr. Sarah Church, a clinical psychologist and executive director of Wholeview Wellness&reg; in New York, shares important details about Vivitrol.
 
 1 It requires full detoxification to use: “You have to fully taper off opiates to get on Vivitrol. Every day has to be opiate-free for between five to 10 days. If you can’t tolerate that, Vivitrol is not a good option for you. Buprenorphine, (also called Suboxone), can be initiated without going through detoxification. It only requires that you wait until withdrawal symptoms begin, and then it can be given as a rescue medication.”
 

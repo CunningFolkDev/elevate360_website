@@ -23,4 +23,4 @@ footer-section:
 layout: services
 ---
 
-Wholeview Wellness specializes in the outpatient treatment of people struggling with alcohol and substance use and related disorders. We offer expert treatment in a compassionate manner and we tailor treatment to the needs and goals of each individual patient. Below are some of the therapies we use to help our patients achieve their goals. We have carefully chosen these treatments for their proven efficacy because we want to give our patients the best chance at success.
+Wholeview Wellness&reg; specializes in the outpatient treatment of people struggling with alcohol and substance use and related disorders. We offer expert treatment in a compassionate manner and we tailor treatment to the needs and goals of each individual patient. Below are some of the therapies we use to help our patients achieve their goals. We have carefully chosen these treatments for their proven efficacy because we want to give our patients the best chance at success.

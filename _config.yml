@@ -1,5 +1,5 @@
 ---
-title: Wholeview Wellness
+title: Wholeview Wellness&reg;
 timezone: America/New_York
 collections:
   about-us:
@@ -33,7 +33,7 @@ collections:
   home:
     title: Home
     output: false
-    page_title: Welcome to Wholeview Wellness
+    page_title: Welcome to Wholeview Wellness&reg;
     seo_title: Outpatient Treatment Rehab for Substance Abuse Midtown Manhattan
     seo_description: Wholeview Wellness is a private intensive outpatient program
       designed to treat people struggling with alcohol addiction and drug use and
@@ -55,7 +55,7 @@ collections:
     seo_title: Expert Addiction Psychologists | Professional Treatment for Substance
       Use Disorders
     seo_description: Need to find an addiction treatment center near you? Wholeview
-      Wellness Wellness has expert team of addiction psychologists at their treatment
+      Wellness has an expert team of addiction psychologists at their treatment
       center in Midtown.
     seo_keywords: find a psychologist near me, mental health psychologist ny, addiction
       therapist, addiction psychologist, treatment for substance use disorders, addiction
@@ -102,11 +102,11 @@ defaults:
     - addiction
     - recovery
     - psychology
-    author: 
-    post_image: 
-    image_alt_text: 
-    seo_description: 
-    seo_keywords: 
+    author:
+    post_image:
+    image_alt_text:
+    seo_description:
+    seo_keywords:
 - scope:
     path: ''
     type: staff
@@ -122,10 +122,10 @@ defaults:
     path: ''
     type: therapies-used
   values:
-    title: 
-    seo_title: 
-    seo_description: 
-    seo_keywords: 
+    title:
+    seo_title:
+    seo_description:
+    seo_keywords:
     back_href: "/why-wholeview/therapies-used/"
     back_title: Therapies Used
     layout: tertiary
@@ -142,9 +142,9 @@ defaults:
     path: ''
     type: treatment-programs
   values:
-    seo_title: 
-    seo_description: 
-    seo_keywords: 
+    seo_title:
+    seo_description:
+    seo_keywords:
     back_href: "/services/treatment-programs"
     back_title: Treatment Programs
     layout: tertiary
@@ -152,13 +152,13 @@ defaults:
     path: ''
     type: upcoming-events
   values:
-    event_date: 
-    event_url: 
+    event_date:
+    event_url:
 - scope:
     path: ''
     type: group-psychotherapy
   values:
-    title: 
+    title:
     meeting_time: e.g. Thursdays 6:00pm-7:00pm
     back_href: "/services/group-psychotherapy"
     back_title: Group Psychotherapy
@@ -168,7 +168,7 @@ defaults:
     path: ''
     type: how-we-treat
   values:
-    title: 
+    title:
     back_href: "/why-wholeview/how-we-treat/"
     back_title: How We Treat
     layout: tertiary
@@ -184,13 +184,13 @@ defaults:
     permalink: "/blog/authors/:title/"
     layout: author
     credentials: Ph.D.
-    medium: 
+    medium:
 - scope:
     path: ''
     type: upcoming-events
   values:
-    event_date: 
-    event_url: 
+    event_date:
+    event_url:
 - scope:
     path: ''
     type: resources-media

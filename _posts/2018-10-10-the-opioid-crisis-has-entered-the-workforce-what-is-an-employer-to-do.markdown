@@ -17,7 +17,7 @@ post_image: "/uploads/Opioids%20in%20the%20Workplace-69d5b5.jpg"
 seo_keywords: opioids, workplace wellness, overdose, treatment, healthcare savings
 ---
 
-*As rates of opioid addiction and substance abuse continue to grow in the United States, the crisis is also beginning to negatively impact employers. A recent [New York Times article highlighted startling increases in overdoses](https://www.nytimes.com/2018/09/21/business/economy/opioid-overdose-workplace.html) in workplaces throughout the country. The National Safety Council reports that 70 percent of companies acknowledge being impacted by employees affected by prescription drug misuse — a development that drives absenteeism, accidents, injuries and other problematic behavior. In 2016, companies reportedly spent $2.6 billion for treatment of opioid abuse, a figure that doesn’t include additional losses due to performance issues and employee turnover. Dr. Sarah Church, the Founder of Wholeview Wellness, recently shared ways for employers to address the issues they face.*
+*As rates of opioid addiction and substance abuse continue to grow in the United States, the crisis is also beginning to negatively impact employers. A recent [New York Times article highlighted startling increases in overdoses](https://www.nytimes.com/2018/09/21/business/economy/opioid-overdose-workplace.html) in workplaces throughout the country. The National Safety Council reports that 70 percent of companies acknowledge being impacted by employees affected by prescription drug misuse — a development that drives absenteeism, accidents, injuries and other problematic behavior. In 2016, companies reportedly spent $2.6 billion for treatment of opioid abuse, a figure that doesn’t include additional losses due to performance issues and employee turnover. Dr. Sarah Church, the Founder of Wholeview Wellness&reg;, recently shared ways for employers to address the issues they face.*
 
 
 **Identifying the Costs of Substance Abuse in the Workplace**
@@ -38,7 +38,7 @@ share responsibility for keeping each other safe and healthy.
 
 1. Start by acknowledging that substance misuse can have a serious impact on the
 workplace.
- 
+
 2. Inform employees that you have a drug-free workplace policy and program during
 onboarding and periodically afterward.
 

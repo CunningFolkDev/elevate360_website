@@ -1,5 +1,5 @@
 ---
-title: Why Wholeview Wellness?
+title: Why Wholeview Wellness&reg;? 
 date: 2018-10-25 00:41:00 -04:00
 seo_title: Most effective therapeutic techniques to treat addiction Manhattan
 background-image: why_wholeview_hero@2x.jpg
@@ -8,7 +8,7 @@ h2: In short, because we do treatment right.
 hero-content: Our professional staff uses proven therapeutic techniques and technology
   to provide care which aims to help each patient develop a meaningful life in recovery
   that is more compelling than a life consumed with substance use.
-seo_description: Wholeview Wellness is advancing addiction treatment by using therapeutic
+seo_description: Wholeview Wellness&reg; is advancing addiction treatment by using therapeutic
   techniques and science-based health technology to support recovery and wellness.
   Consult our expert psychologists.
 seo_keywords: therapeutic techniques, therapeutic techniques for anxiety, evidence
@@ -25,4 +25,4 @@ Many people don’t know that addiction treatment really works. When done right,
 
 Patients and families receiving treatment for addiction need education to learn what actually works and what just sounds like it should work. There is a big difference!
 
-We created Wholeview Wellness to ensure that patients and their families have access to professionals who can provide information and education about available treatments, and can answer questions about which are most effective, and which will work best for them.
+We created Wholeview Wellness&reg; to ensure that patients and their families have access to professionals who can provide information and education about available treatments, and can answer questions about which are most effective, and which will work best for them.

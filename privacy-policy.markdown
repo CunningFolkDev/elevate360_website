@@ -7,7 +7,7 @@ layout: markdown
 
 *Effective date: November 06, 2018*
 
-Wholeview Wellness ("us", "we", or "our") operates the wholeview.co website (the "Service").
+Wholeview Wellness&reg; ("us", "we", or "our") operates the wholeview.co website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -56,7 +56,7 @@ We use Security Cookies for security purposes.
 
 #### Use of Data
 
-Wholeview Wellness uses the collected data for various purposes:
+Wholeview Wellness&reg; uses the collected data for various purposes:
 
 * To provide and maintain the Service
 
@@ -80,17 +80,17 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Wholeview Wellness will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Wholeview Wellness&reg; will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ### Disclosure of Data
 
 #### Legal Requirements
 
-Wholeview Wellness may disclose your Personal Data in the good faith belief that such action is necessary to:
+Wholeview Wellness&reg; may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 * To comply with a legal obligation
 
-* To protect and defend the rights or property of Wholeview Wellness
+* To protect and defend the rights or property of Wholeview Wellness&reg;
 
 * To prevent or investigate possible wrongdoing in connection with the Service
 
@@ -140,8 +140,8 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-### How Wholeview Wellness treats Protected Health Information (PHI) 
- 
+### How Wholeview Wellness&reg; treats Protected Health Information (PHI)
+
 *(Effective 2/3/20)*
 
 #### Your Information. Your Rights. Our Responsibilities.
@@ -168,8 +168,8 @@ You have some choices in the way that we use and share information as we
 * Market our services and sell your information
 * Raise funds
 
-### Our Uses and Disclosures 
- 
+### Our Uses and Disclosures
+
 We may use and share your information as we
 
 * Treat you
@@ -183,7 +183,7 @@ We may use and share your information as we
 * Address workers’ compensation, law enforcement, and other government requests
 * Respond to lawsuits and legal actions
 
-#### Your Rights 
+#### Your Rights
 
 When it comes to your health information, you have certain rights. This section explains your rights and some of our responsibilities to help you.
 
@@ -230,7 +230,7 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
 #### Your Choices    
 
-For certain health information, you can tell us your choices about what we share. 
+For certain health information, you can tell us your choices about what we share.
 
 If you have a clear preference for how we share your information in the situations described below, talk to us. Tell us what you want us to do, and we will follow your instructions.
 
