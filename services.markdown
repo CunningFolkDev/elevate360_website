@@ -29,8 +29,8 @@ service-cards:
   page_slug: "/why-wholeview/how-we-treat/"
 - title: Therapies Used at Wholeview Wellness&reg;
   image: bridge-560983@2x.jpg
-  copy: Wholeview Wellness&reg; specializes in the outpatient treatment of people struggling
-    with alcohol and substance use and related disorders.
+  copy: Wholeview Wellness&reg; specializes in the outpatient treatment of people
+    struggling with alcohol and substance use and related disorders.
   page_slug: "/why-wholeview/therapies-used"
 ---
 
