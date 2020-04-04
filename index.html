@@ -25,6 +25,16 @@ layout: default
 
 {% include mobile_hero.html image=background_image message="Need Help?" %}
 
+{% assign covid_callout = home_content | where: "position", 7 | first %}
+{% include section-callout.html
+    h3=covid_callout.h3
+    h4=covid_callout.h4
+    button_msg=covid_callout.button_msg
+    button_mobile=covid_callout.button_mobile
+    button_href=covid_callout.button_href
+%}
+
+
 <section id="homepage_1" class="hero plant-image" style="background-image: url('{% asset '{{ background_image }}' @path %}')">
     <div class="section-content">
         <div class="section-content-inner sl-test2">
