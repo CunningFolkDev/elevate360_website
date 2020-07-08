@@ -1,7 +1,7 @@
 ---
 title: DBT Night Group
 date: 2020-01-16 15:33:00 -05:00
-position: 7
+position: 6
 meeting_time: 'Tuesdays (6:30PM-7:30PM) and Thursdays (6:30PM-7:30PM) '
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
