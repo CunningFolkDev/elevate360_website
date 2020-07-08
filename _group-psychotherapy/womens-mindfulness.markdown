@@ -1,6 +1,6 @@
 ---
 title: Mindfulness Support Network
-position: 7
+position: 1
 meeting_time: Mondays (10:30AM-12:00PM)
 layout: tertiary
 back_href: "/services/group-psychotherapy"

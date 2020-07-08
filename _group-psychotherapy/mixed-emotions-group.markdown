@@ -1,7 +1,7 @@
 ---
 title: Mixed Emotions Group
 date: 2019-06-26 12:07:00 -04:00
-position: 1
+position: 2
 meeting_time: Wednesdays (10:30AM - 12:00PM)
 layout: tertiary
 back_href: "/services/group-psychotherapy"
