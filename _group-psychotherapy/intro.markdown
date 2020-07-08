@@ -1,6 +1,6 @@
 ---
 title: Group Psychotherapy Offerings
-position: 0
+position: 1
 meeting_time: See below
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy

@@ -1,6 +1,6 @@
 ---
 title: Acceptance and Commitment Therapy
-position: 15
+position: 16
 meeting_time: Tuesdays (12:30PM-2:00PM) & Saturdays  (Noon-1:00PM)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
