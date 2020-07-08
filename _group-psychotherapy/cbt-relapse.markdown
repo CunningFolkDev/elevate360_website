@@ -1,6 +1,6 @@
 ---
 title: CBT Relapse Prevention Group
-position: 1
+position: 2
 meeting_time: Mondays (12:30pm-2:00pm)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
