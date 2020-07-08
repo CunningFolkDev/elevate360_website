@@ -1,7 +1,7 @@
 ---
 title: Community Reinforcement Approach & Weekend Planning
 date: 2020-01-16 15:36:00 -05:00
-position: 12
+position: 13
 meeting_time: Fridays (10:30AM- 12:00PM)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy

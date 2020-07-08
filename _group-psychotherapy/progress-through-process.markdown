@@ -1,6 +1,7 @@
 ---
 title: Progress through Process
 date: 2020-07-08 14:41:00 -04:00
+position: 1
 meeting_time: 'Tuesdays (6:30PM-7:30PM) '
 ---
 
