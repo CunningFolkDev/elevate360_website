@@ -1,5 +1,5 @@
 ---
-title: Dr. Art Swanson
+title: Art Swanson
 date: 2020-07-29 09:14:00 -04:00
 ---
 
