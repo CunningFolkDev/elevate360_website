@@ -1,6 +1,7 @@
 ---
 title: Art Swanson
 date: 2020-08-04 17:55:00 -04:00
+position: 8
 full_title: 'Art Swanson '
 job_title: 'Psychologist '
 photo: "/uploads/Art%20Swanson%20Headshot-33b07e.jpg"
