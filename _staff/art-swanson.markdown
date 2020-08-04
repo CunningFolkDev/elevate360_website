@@ -1,6 +1,9 @@
 ---
 title: Art Swanson
 date: 2020-08-04 17:55:00 -04:00
+full_title: 'Art Swanson '
+job_title: 'Psychologist '
+photo: "/uploads/Art%20Swanson%20Headshot-33b07e.jpg"
 ---
 
 Dr. Swanson is a licensed clinical psychologist with over 30 years of experience. He specializes in the treatment of individuals with substance use and co-occurring mental health disorders. His expertise is in Motivational Interviewing (MI), Cognitive Behavioral Therapy (CBT), and Medication Assisted Treatment (MAT).
