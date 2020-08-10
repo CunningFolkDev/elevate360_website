@@ -1,5 +1,5 @@
 ---
-title: Art Swanson
+title: Art Swanson Ph.D.
 date: 2020-08-04 17:55:00 -04:00
 position: 8
 full_title: 'Art Swanson '
