@@ -17,3 +17,5 @@ group :development do
   gem 'rake'
   gem 'html-proofer'
 end
+
+gem "kramdown-parser-gfm", "~> 1.1"
