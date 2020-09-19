@@ -19,6 +19,15 @@
         <input id="phone" type="tel" placeholder="Your phone number" name="phone" data-validates="phone" />
     </p>
     <p>
+      <label for="discovery_source">How did you hear about us?</label>
+      <select class="select-css" name="discovery_source" id="discovery_source">
+        <option value="None selected"> </option>
+        {% for option in site.formcarry_how_did_you_hear_options %}
+        <option value="{{ option }}">{{ option }}</option>
+        {% endfor %}
+      </select>
+    </p>
+    <p>
         <label for="message">Message <span class="required">*</span></label>
         <textarea id="message" placeholder="Your message" name="message" data-validates="presence"></textarea>
     </p>
