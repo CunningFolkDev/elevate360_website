@@ -217,28 +217,28 @@ mailchimp_url: https://wholeview.us18.list-manage.com/subscribe/post?u=67197f5bd
 formcarry_form_id: s1U09JSk80i
 formcarry_email_subject: An email from your website!
 formcarry_how_did_you_hear_options:
-  - Addiction Psychiatrist
-  - Independent Therapists
-  - Online Marketing
-  - Addiction Clinics
-  - Recovery Coach
-  - Concierge MD
-  - Corporations
-  - Advocacy Agency
-  - Start Your Recovery
-  - Internal Medicine
-  - Sober Home
-  - Current Patient
-  - Prior Patient
-  - High-end Health Advisory
-  - Urgent Care
-  - Universities
-  - ZocDoc
-  - Bing
-  - Yelp
-  - Psychology Today
-  - ZenCare
-  - Google Search
+- Addiction Psychiatrist
+- Independent Therapists
+- Online Marketing
+- Addiction Clinics
+- Recovery Coach
+- Concierge MD
+- Corporations
+- Advocacy Agency
+- Start Your Recovery
+- Internal Medicine
+- Sober Home
+- Current Patient
+- Prior Patient
+- High-end Health Advisory
+- Urgent Care
+- Universities
+- ZocDoc
+- Bing
+- Yelp
+- Psychology Today
+- ZenCare
+- Google Search
 assets:
   sources:
   - _uploads
