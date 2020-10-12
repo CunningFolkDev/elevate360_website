@@ -2,7 +2,7 @@
 title: Marc Diener
 date: 2020-10-12 11:43:00 -04:00
 position: 12
-full_title: 'Psychologist '
+job_title: 'Psychologist '
 photo: "/uploads/Wholeview%20Logo.jpg"
 Field name: 
 ---
