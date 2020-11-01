@@ -1009,7 +1009,11 @@ section {
     .section-content {
         margin: 0 auto;
         max-width: 50%;
+        &#section-contact-form {
+          min-width: 75%;
+        }
     }
+
 
     .section-text {
         align-content: center;
@@ -1806,13 +1810,22 @@ section#service_subfooter {
 #contact_intro {
   max-height: 27em;
   min-width: 300px;
+  .type2-inner {
+    padding-bottom: 0;
+  }
 }
 
-#contact_intro, .contact-form-holder {
-    padding: 5vw;
+#contact_intro, #contact-form-holder {
+    padding-top: 0;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-bottom: 3vw;
+    .type2-inner .section-text-wide {
+      padding-top: 40px;
+    }
 }
 
-.contact-form-holder {
+#contact-form-holder {
     width: 100%;
 
     .callout {
