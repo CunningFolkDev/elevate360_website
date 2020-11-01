@@ -9,6 +9,9 @@
       <div class="cta-text">
           <h3>{{ include.h3 }}</h3>
           <h4>{{ include.h4 }}</h4>
+          {% if include.content %}
+          <p>{{ include.content | markdownify }}</p>
+          {% endif %}
       </div>
       <a href="{{ href_with_phone }}" class="button rounded only-desktop">{{ include.button_msg }}</a>
       <a href="{{ href_with_phone }}" class="button rounded only-mobile">{{ include.button_mobile }}</a>

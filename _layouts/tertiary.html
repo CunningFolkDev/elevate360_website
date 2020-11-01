@@ -69,7 +69,7 @@ The `back_title` and `photo_alt` are not used if their respect `back_href` and `
           <strong>{{ page.meeting_time }}</strong>
         </p>
       {% endif %}
-      {{ content_with_phone_num }}
+      {{ content_with_phone_num | markdownify }}
       {% if page.video_src %}
       <div class="video-embed only-desktop">
         <iframe width="560" height="315" src="{{ page.video_src }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

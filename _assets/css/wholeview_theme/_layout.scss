@@ -924,9 +924,12 @@ a.nav-icon {
         background-color: $avocado;
 
         .cta-text {
-            h4 {
+            h4, h3, p {
                 a {
                     color: #fff;
+                    &:hover {
+                      color: $pale-blue-50;
+                    }
                 }
             }
         }
