@@ -1,7 +1,7 @@
 ---
 title: Covid-19 Callout
 position: 7
-h3:
+h3: 
 h4: Serving you safely through telehealth during the COVID-19 Crisis
 button_mobile: tap here
 button_msg: learn more
