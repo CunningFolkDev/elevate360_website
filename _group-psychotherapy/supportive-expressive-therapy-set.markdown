@@ -1,6 +1,7 @@
 ---
 title: Supportive Expressive Therapy (SET)
 date: 2020-11-10 12:49:00 -05:00
+meeting_time: Mondays (12:30pm-2:00pm)
 ---
 
 Supportive-Expressive Therapy is an evidence-based treatment for a variety of different presenting problems, including substance use disorders. At Wholeview, we provide a specific manualized form of SET group, based on the Harvard Cocaine Recovery Project. In this approach, a substance use disorder is viewed as an outgrowth of difficulties in four areas; (1) self-esteem; (2) managing feelings; (3) managing relationships; and (4) self-care. 
