@@ -1,6 +1,7 @@
 ---
 title: Supportive Expressive Therapy (SET)
 date: 2020-11-10 12:49:00 -05:00
+position: 3
 meeting_time: Mondays (12:30pm-2:00pm)
 ---
 

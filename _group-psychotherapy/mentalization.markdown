@@ -1,7 +1,7 @@
 ---
 title: Mentalization
 date: 2020-07-08 14:56:00 -04:00
-position: 9
+position: 10
 meeting_time: Thursdays (10:30AM-12:00PM)
 ---
 

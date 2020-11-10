@@ -3,7 +3,7 @@ title: DBT Skills Group
 date: 2019-06-26 12:18:00 -04:00
 tags:
 - DBT Skills Group
-position: 8
+position: 9
 meeting_time: Wednesdays (12:30PM - 2:00PM)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
