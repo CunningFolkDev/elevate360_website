@@ -858,6 +858,18 @@ a.nav-icon {
         }
     }
 
+    #covid-19-callout {
+      flex-wrap: nowrap;
+      @media screen and (max-width: 450px) {
+        flex-wrap: wrap;
+      }
+      .button.rounded {
+        font-size: 13px;
+        height: 24px;
+        line-height: 24px;
+      }
+    }
+
 
     >div {
         flex-basis: 70%;
@@ -927,8 +939,10 @@ a.nav-icon {
             h4, h3, p {
                 a {
                     color: #fff;
+                    font-weight: bolder;
                     &:hover {
                       color: $pale-blue-50;
+                      border-bottom: dotted;
                     }
                 }
             }
