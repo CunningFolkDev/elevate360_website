@@ -4,6 +4,7 @@ date: 2020-11-25 13:27:00 -05:00
 position: 14
 full_title: Richard Lobel, CASAC-T
 job_title: Intern
+photo: "/uploads/Richard%20Lobel%20Headshot.png"
 ---
 
 Rich joined our team November 2020 as a CASAC intern. After a 30+ year executive career working in world class advertising agencies, the leading global live entertainment company and a leading media + content organization, Rich made the decision to begin a new career to help people overcome their substance use addictions. 
