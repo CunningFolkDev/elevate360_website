@@ -1,5 +1,5 @@
 ---
-title: Richard Lobel, CASAC-T
+title: Richard Lobel
 date: 2020-11-25 13:27:00 -05:00
 position: 14
 full_title: Richard Lobel, CASAC-T
