@@ -1,6 +1,7 @@
 ---
 title: 'Getting There: Building Motivation to Action'
 date: 2020-12-17 13:04:00 -05:00
+position: 12
 meeting_time: Thursdays (10:30AM-12:00PM)
 ---
 
