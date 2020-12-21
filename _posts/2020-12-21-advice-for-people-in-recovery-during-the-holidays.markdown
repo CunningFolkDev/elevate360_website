@@ -1,6 +1,18 @@
 ---
 title: Advice for People In Recovery During the Holidays
 date: 2020-12-21 14:37:00 -05:00
+categories:
+- blog
+- mental health
+- therapy
+- insights
+- treatment
+tags:
+- medication assisted treatment
+- alcohol
+- psychology
+- recovery
+- alcohol use disorder
 author: Sarah Church, Ph.D.
 post_image: "/uploads/recovery-during-holidays-people-lighting-sparklers.jpg"
 seo_keywords: alcohol, recovery, holidays, celebration, addiction
