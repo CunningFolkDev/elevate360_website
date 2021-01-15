@@ -31,7 +31,7 @@ The U.S. Department of Health and Human Services recommends that if you drink, y
 Collins says there are a couple of tricks to curb your alcohol consumption — that way, you won't suddenly be on your fourth or fifth drink without even realizing it. To slow down consumption, Collins recommends sipping, not guzzling. "Even a beer can be sipped like fine wine," she says. Additionally, she recommends adding in nonalcoholic beverages between that cocktail or beer and having food available when you drink.
 If you or someone you know is struggling with addiction, the SAMHSA National Helpline is open 24/7 at 800-662-HELP (4357). You can get help finding treatment here.
 
-**Reprogram your day. **
+**Reprogram your day.**
 Replace happy hour with a new habit. If you want to take a temporary break from drinking, Génecé recommends starting with a two-week hiatus. She says this will give you a lot of information about your relationship to alcohol: Was it a breeze, or was it really difficult to cut alcohol out of your routine? If the latter is true, she says it's important to replace drinking with new habits. So, for example, if you like to have a drink after work, try something else at that time, such as going for a walk or watching a show you like. "Substitute other pleasant activities during that very same time for at least two to three weeks so that you can begin to develop a new conditioned response," she says.
 
 **Connection is key.** 
