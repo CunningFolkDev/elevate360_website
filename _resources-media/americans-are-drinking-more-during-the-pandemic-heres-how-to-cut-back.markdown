@@ -10,14 +10,6 @@ image: "/uploads/Pouring%20Wine%20GIF.gif"
 link: https://www.npr.org/transcripts/944306885
 ---
 
-By: Allison Aubrey, NPR
-
-Hey there, LIFE KIT listener. I know we don't have to tell you 2020 has been chaotic. The coronavirus pandemic has turned all our lives upside down. Suddenly, the straightforward parts of life, like going to the grocery store, felt scary and uncertain. Plans for school and work dramatically changed, not to mention the unbelievable amount of loss. And we know it's not over yet.
-
-But through every twist and turn of this exceptional time, LIFE KIT has been here to be an ambassador of sanity, from our coverage on coping with anxiety to finding virtual therapy, from confronting microaggressions at home to having tough conversations about race and identity in the workplace, from caring for elders amidst a pandemic while remembering to care for ourselves, because everyone needs a little help being human - now more than ever.
-
-So if LIFE KIT has helped keep you grounded this year, we have a favor to ask. We want to continue to be your support system in the new year. So please, if you have the means, one way to do that is to donate to your local public radio station. Just go to donate.npr.org/lifekit. Again, that's donate.npr.org/lifekit. And thanks.
-
 ALLISON AUBREY, HOST:
 
 This is NPR's LIFE KIT. I'm Allison Aubrey.
