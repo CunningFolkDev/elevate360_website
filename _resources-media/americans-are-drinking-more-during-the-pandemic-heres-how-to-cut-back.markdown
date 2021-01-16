@@ -10,7 +10,7 @@ image: "/uploads/Pouring%20Wine%20GIF.gif"
 link: https://www.npr.org/transcripts/944306885
 ---
 
-Allison Aubrey
+By: Allison Aubrey, NPR
 
 Hey there, LIFE KIT listener. I know we don't have to tell you 2020 has been chaotic. The coronavirus pandemic has turned all our lives upside down. Suddenly, the straightforward parts of life, like going to the grocery store, felt scary and uncertain. Plans for school and work dramatically changed, not to mention the unbelievable amount of loss. And we know it's not over yet.
 
