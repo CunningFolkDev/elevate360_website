@@ -13,7 +13,7 @@ tags:
 - addiction
 author: Kamala Greene Genece, Ph.D.
 post_image: "/uploads/Cups%20of%20Wine.jpg"
-seo_keywords: 'alcohol, "dry January", '
+seo_keywords: alcohol, "dry January", addiction, connection
 ---
 
 When the pandemic began spreading across the U.S. in March, stores, restaurants and schools closed down. But liquor stores in many parts of the U.S. were deemed essential and stayed open. Alcohol sales have ticked up during the pandemic, so maybe it's a good time to ask yourself: Are you drinking more than you'd like to be?
