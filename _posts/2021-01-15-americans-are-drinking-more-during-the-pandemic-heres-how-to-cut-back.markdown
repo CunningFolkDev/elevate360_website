@@ -1,5 +1,5 @@
 ---
-title: Americans Are Drinking More During The Pandemic. Here's How To Cut Back
+title: 6 Ways To Take A Break From Drinking
 date: 2021-01-15 10:34:00 -05:00
 categories:
 - interview
