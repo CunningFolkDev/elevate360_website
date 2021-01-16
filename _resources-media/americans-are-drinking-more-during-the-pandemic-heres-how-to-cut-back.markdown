@@ -10,7 +10,9 @@ image: "/uploads/Pouring%20Wine%20GIF.gif"
 link: https://www.npr.org/transcripts/944306885
 ---
 
-UNIDENTIFIED PERSON, BYLINE: Hey there, LIFE KIT listener. I know we don't have to tell you 2020 has been chaotic. The coronavirus pandemic has turned all our lives upside down. Suddenly, the straightforward parts of life, like going to the grocery store, felt scary and uncertain. Plans for school and work dramatically changed, not to mention the unbelievable amount of loss. And we know it's not over yet.
+Allison Aubrey
+
+Hey there, LIFE KIT listener. I know we don't have to tell you 2020 has been chaotic. The coronavirus pandemic has turned all our lives upside down. Suddenly, the straightforward parts of life, like going to the grocery store, felt scary and uncertain. Plans for school and work dramatically changed, not to mention the unbelievable amount of loss. And we know it's not over yet.
 
 But through every twist and turn of this exceptional time, LIFE KIT has been here to be an ambassador of sanity, from our coverage on coping with anxiety to finding virtual therapy, from confronting microaggressions at home to having tough conversations about race and identity in the workplace, from caring for elders amidst a pandemic while remembering to care for ourselves, because everyone needs a little help being human - now more than ever.
 
