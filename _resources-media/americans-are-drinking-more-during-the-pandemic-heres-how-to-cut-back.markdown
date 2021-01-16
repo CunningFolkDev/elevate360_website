@@ -1,6 +1,12 @@
 ---
 title: Americans Are Drinking More During The Pandemic. Here's How To Cut Back
 date: 2021-01-16 18:22:00 -05:00
+tags:
+- drinking
+- alcohol
+- pandemic
+- moderating
+image: "/uploads/Pouring%20Wine%20GIF.gif"
 link: https://www.npr.org/transcripts/944306885
 ---
 
