@@ -1,6 +1,7 @@
 ---
 title: 'HERstory: Healing and Empowerment in Recovery'
 date: 2021-01-21 10:58:00 -05:00
+position: 15
 meeting_time: Thursdays (12:30PM-2:00PM)
 ---
 
