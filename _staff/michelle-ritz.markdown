@@ -1,7 +1,7 @@
 ---
 title: Michelle Ritz
 date: 2020-10-12 12:08:00 -04:00
-position: 12
+position: 13
 full_title: 'Michelle Ritz, Psy.D. '
 job_title: 'Post Doctoral Fellow '
 photo: "/uploads/Michelle%20Headshot%20.jpg"
