@@ -4,7 +4,7 @@ date: 2021-02-26 14:56:00 -05:00
 position: 10
 full_title: BRADEN JOSEPHSON, PH.D., BCBA-D
 job_title: 'Psychologist '
-photo: "/uploads/Braden_002.jpg"
+photo: "/uploads/Braden_002-6a84fc.jpg"
 ---
 
 
