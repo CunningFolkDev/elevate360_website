@@ -1,6 +1,13 @@
 ---
 title: Marc Diener
 date: 2020-10-12 11:43:00 -04:00
+tags:
+- psychodynamic
+- cognitive
+- behavioral
+- motivational
+- substance use disorders
+- psychoanalytic
 position: 14
 full_title: 'Marc Diener, Ph.D. '
 job_title: 'Psychologist '
