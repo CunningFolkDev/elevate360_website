@@ -4,7 +4,6 @@ date: 2020-10-12 11:43:00 -04:00
 position: 14
 full_title: 'Marc Diener, Ph.D. '
 job_title: 'Psychologist '
-photo: "/uploads/Marc%20Headshot.jpg"
 Field name: 
 ---
 
