@@ -1,8 +1,15 @@
 ---
 title: Braden Josephson
 date: 2021-02-26 14:56:00 -05:00
+tags:
+- EFT
+- ABA
+- autism
+- CBT
+- BCBA-D
+- couples therapy
 position: 10
-full_title: BRADEN JOSEPHSON, PH.D., BCBA-D
+full_title: Braden Josephson, Ph.D., BCBA-D
 job_title: 'Psychologist '
 photo: "/uploads/Braden-Head-Shot-FINAL%20(1)%20(2).jpg"
 ---
