@@ -11,7 +11,7 @@ tags:
 position: 10
 full_title: Braden Josephson, Ph.D., BCBA-D
 job_title: 'Psychologist '
-photo: "/uploads/Braden-Head-Shot-FINAL%20(1)%20(2).jpg"
+photo: "/uploads/Braden-Head-Shot-FINAL%20(2).jpg"
 ---
 
 
