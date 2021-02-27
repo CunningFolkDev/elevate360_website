@@ -11,7 +11,6 @@ tags:
 position: 14
 full_title: 'Marc Diener, Ph.D. '
 job_title: 'Psychologist '
-photo: "/uploads/Marc%20Headshot.jpg"
 ---
 
 Dr. Marc Diener is a licensed clinical psychologist who specializes in the treatment of substance use disorders, with experience working in day treatment, intensive outpatient, outpatient, and private practice settings. His approach to treatment is an integrative one, known as Assimilative Psychodynamic Psychotherapy, in which psychodynamic interventions are used together with cognitive, behavioral, and motivational interviewing techniques.
