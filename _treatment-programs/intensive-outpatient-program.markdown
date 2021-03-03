@@ -1,10 +1,13 @@
 ---
 title: Intensive Outpatient Program (IOP)
 date: 2018-09-07 16:22:00 -04:00
+categories:
+- addiction treatment
 tags:
 - intensive outpatient program
 - IOP
 position: 1
+seo_keywords: IOP, Intensive Outpatient Treatment
 back_href: "/services/treatment-programs"
 back_title: Treatment Programs
 layout: tertiary
