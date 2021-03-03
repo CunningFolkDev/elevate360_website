@@ -1,0 +1,11 @@
+---
+title: Emotion Focused Therapy (EFT)
+date: 2021-03-03 12:02:00 -05:00
+categories:
+- Couples Therapy
+tags:
+- EFT
+- EFCT
+---
+
+Emotion Focused Therapy EFT or Emotion Focused Couples Therapy EFCT is a short term (8 to 20 sessions) structured approach, originally developed for couples therapy and is based on attachment science. Interventions in EFT integrate a humanistic, experiential approach to restructuring emotional experience and a systemic structural approach to restructuring interactions. This evidence based therapy has significant research showing lasting effects of this intervention particularly for couples coping with depression, anxiety, trauma, medical illness and forgiveness dilemmas.
