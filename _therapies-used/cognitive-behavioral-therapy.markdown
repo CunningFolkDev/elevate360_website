@@ -1,7 +1,7 @@
 ---
 title: Cognitive Behavioral Therapy (CBT)
 date: 2018-09-07 16:22:00 -04:00
-position: 1
+position: 0
 seo_title: Cognitive Behavioral Therapy for anxiety, depression, addiction NYC
 seo_description: CBT reliably results in improvement in both functioning and quality
   of life. We offer cognitive behavioral therapy to treat anxiety and depression in

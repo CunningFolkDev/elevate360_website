@@ -1,7 +1,7 @@
 ---
 title: Supportive Expressive Therapy (SET)
 date: 2018-10-07 16:22:00 -04:00
-position: 7
+position: 8
 back_href: "/why-wholeview/therapies-used/"
 back_title: Therapies Used
 layout: tertiary
