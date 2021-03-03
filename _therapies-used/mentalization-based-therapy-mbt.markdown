@@ -4,6 +4,7 @@ date: 2021-03-03 12:52:00 -05:00
 tags:
 - MBT
 - Mentalization Based Therapy
+position: 8
 seo_keywords: Mentalization Based Therapy, MBT
 ---
 
