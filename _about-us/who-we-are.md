@@ -8,4 +8,4 @@ We provide exceptional, science-based, compassionate care for patients and famil
 
 We have a deeply held belief that people struggling with addiction deserve professional treatment that works.
 
-Through continuous research, evolving technologies, and evidence-based care, we are leading a revolution in addiction care with on
+Through continuous research, evolving technologies, and evidence-based care, we are leading a revolution in addiction care.
