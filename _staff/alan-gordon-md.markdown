@@ -4,7 +4,7 @@ date: 2021-04-21 12:49:00 -04:00
 position: 15
 full_title: 'Alan Gordon, M.D. '
 job_title: 'Medical Director '
-photo: "/uploads/IMG_5554.jpg"
+photo: "/uploads/IMG_5554-0bc35b.jpg"
 ---
 
 Dr. Alan Gordon specializes in general psychiatry and addiction psychiatry and has served in leadership positions throughout his career, including 22 years as chief of addiction psychiatry and Clinical Associate Professor at Butler Hospital, the affiliated teaching hospital for psychiatry and behavioral health of The Warren Albert Medical School of Brown University.  
