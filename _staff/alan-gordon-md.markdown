@@ -1,5 +1,5 @@
 ---
-title: Alan Gordon, M.D.
+title: Alan Gordon
 date: 2021-04-21 12:49:00 -04:00
 position: 15
 full_title: 'Alan Gordon, M.D. '
