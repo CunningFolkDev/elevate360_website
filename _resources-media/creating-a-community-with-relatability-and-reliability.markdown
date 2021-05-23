@@ -1,6 +1,13 @@
 ---
 title: Creating a Community with Relatability and Reliability
 date: 2021-05-23 19:17:00 -04:00
+tags:
+- Community
+- Addiction
+- Mental Health
+- Reviews
+- Yelp
+- Entrepreneur Magazine
 image: "/uploads/Entrepreneur%20Magazine.jpeg"
 link: https://www.entrepreneur.com/article/371807
 ---
