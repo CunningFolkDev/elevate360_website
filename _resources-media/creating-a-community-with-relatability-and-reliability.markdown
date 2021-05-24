@@ -8,6 +8,7 @@ tags:
 - Reviews
 - Yelp
 - Entrepreneur Magazine
+position: 0
 image: "/uploads/Entrepreneur%20Magazine.jpeg"
 link: https://www.entrepreneur.com/article/371807
 ---

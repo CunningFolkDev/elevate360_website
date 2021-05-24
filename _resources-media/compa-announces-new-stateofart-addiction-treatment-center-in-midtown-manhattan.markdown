@@ -1,7 +1,7 @@
 ---
 title: COMPA Announces New State-of-Art Addiction Treatment Center in Midtown Manhattan
 date: 2018-09-07 16:22:00 -04:00
-position: 2
+position: 4
 image: "/uploads/prweb-article.png"
 link: https://www.prweb.com/releases/compaannouncesnewstateofartaddictiontreatmentcenterinmidtown_manhattan/prweb15822234.htm
 ---
