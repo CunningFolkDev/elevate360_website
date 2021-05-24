@@ -10,7 +10,6 @@ tags:
 - '"drinking"'
 author: Sarah Church, Ph.D.
 post_image: "/uploads/Woman%20Looking%20Sadly%20Out%20The%20Window.jpg"
-image_alt_text: " assistance."
 seo_keywords: Alcohol, Relapse, Addiction, Pandemic, Winter, "Seasonal Affective Disorder"
 ---
 
@@ -56,4 +55,4 @@ You are not alone. There are a lot of people who are struggling right now. Peopl
 
 **Treatment really works.** 
 
-There is significant evidence behind therapies and medications that have been developed for SUD. You have choices! There are many ways to address your drinking or drug use. Some people are more comfortable with abstinence and mutual support groups, while others are more comfortable seeking medical and psychological treatment. Unfortunately, there is no cure for substance use disorders. They are chronic medical disorders much like hypertension and diabetes that need ongoing support and medical care. Right now, there is so much stress and anxiety due to the pandemic and these issues are exacerbated by the winter. Treat yourself with compassion if you are struggling and seek
+There is significant evidence behind therapies and medications that have been developed for SUD. You have choices! There are many ways to address your drinking or drug use. Some people are more comfortable with abstinence and mutual support groups, while others are more comfortable seeking medical and psychological treatment. Unfortunately, there is no cure for substance use disorders. They are chronic medical disorders much like hypertension and diabetes that need ongoing support and medical care. Right now, there is so much stress and anxiety due to the pandemic and these issues are exacerbated by the winter. Treat yourself with compassion if you are struggling and seek assistance.
