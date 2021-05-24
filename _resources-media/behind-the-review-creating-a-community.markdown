@@ -3,7 +3,19 @@ title: |-
   BEHIND THE REVIEW
   Creating a Community
 date: 2021-05-23 20:01:00 -04:00
-image: "/uploads/Wholeview%20Wellness%20%20%E2%80%93%20BTR%20%E2%80%93%20Twitter-3.png"
+categories:
+- mental health
+- addiction
+tags:
+- Reviews
+- Community
+- Story
+- Addiction
+- Mental Health
+- Counseling
+- Business Owners
+- Therapeutic
+image: "/uploads/Behind%20the%20Review.jpg"
 link: https://www.entrepreneur.com/listen/behind-the-review/371846
 ---
 
