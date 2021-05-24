@@ -15,6 +15,8 @@ seo_keywords: Alcohol, Relapse, Addiction, Pandemic, Winter, "Seasonal Affective
 
 To understand more about how the winter (and pandemic) can be so difficult for those who struggle with substance use or are in recovery, here are a few things you should know.
 
+
+
 **Why is the winter hard in general for those who struggle with substance use?**
 There are a lot of factors that come into play that make winter hard for those who struggle with alcohol and substance use disorders (SUDs). During colder months, we’re less social, spending more time inside and we’re not exposed to the sunlight that our bodies need. This year, the typical effects of the winter months are aggravated by the pandemic. People aren’t getting out and having the positive social contacts they are used to. For the most part, people are staying home. For some that is isolating, and for others who are living in close quarters with family members, this may lead to conflict.
 
