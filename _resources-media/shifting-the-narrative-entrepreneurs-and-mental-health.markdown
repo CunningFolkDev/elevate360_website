@@ -8,7 +8,7 @@ categories:
 - mental health
 tags:
 - Entrepreneur Magazine
-position: 0
+position: 1
 image: "/uploads/Entrepreneur%20work%20life%20balance%20article.jfif"
 link: https://www.entrepreneur.com/article/373462
 ---

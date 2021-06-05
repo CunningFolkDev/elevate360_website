@@ -2,7 +2,7 @@
 title: How a popular opioid addiction medication helped contribute to Josh Gibson’s
   long-term recovery plan
 date: 2019-09-15 18:02:00 -04:00
-position: 4
+position: 3
 image: "/uploads/Josh%20Gibson%20and%20finance.jpg"
 link: http://bit.ly/2mbQHBP
 ---
