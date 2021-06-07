@@ -1,14 +1,16 @@
 ---
 title: Group Psychotherapy
 date: 2018-09-07 16:22:00 -04:00
+tags:
+- group therapy
 position: 4
+back_href: "/why-wholeview/how-we-treat/"
+back_title: How We Treat
 seo_title: Group Therapy for Alcohol and Drug Addiction | Midtown Manhattan
 seo_description: Wholeview Wellness offers many therapy groups, some are skills based,
   some utilize cognitive behavioral techniques and others provide support for recovery. 
 seo_keywords: group therapy for alcohol near me, group therapy for addiction near
   me, recovery groups near me
-back_href: "/why-wholeview/how-we-treat/"
-back_title: How We Treat
 layout: tertiary
 ---
 
