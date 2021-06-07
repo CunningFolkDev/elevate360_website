@@ -5,6 +5,14 @@ categories:
 - Family Therapy
 tags:
 - CRAFT
+- Community Reinforcement and Family Therapy
+seo_title: Family Therapy for Alcohol and Drug Addiction | Midtown Manhattan
+seo_description: Wholeview Wellness offers family therapy using CRAFT and approach
+  that is motivational rather than confrontational. Family members learn how to motivate
+  loved ones to change, by rewarding sober activities and discouraging activities
+  that include drugs or alcohol. When the reasons not to use outweigh the reasons
+  to use, people are more likely to enter treatment. CRAFT training provides families
+  with skills to help shift the balance in favor of not using and entering treatment.
 ---
 
 Community Reinforcement Approach and Family Therapy (CRAFT) is a treatment approach designed specifically for people who are concerned about a loved one who is drinking or using drugs. Developed by Dr. Robert Meyers at the University of New Mexico, this positive treatment approach can be delivered individually or in groups and leads to reduced conflict in the family and a healthier and more sustainable life for the people who are caring for someone that is struggling with alcohol or drug use.
