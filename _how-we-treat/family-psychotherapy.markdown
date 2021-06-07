@@ -7,6 +7,7 @@ tags:
 - CRAFT
 - Community Reinforcement and Family Therapy
 - Motivational Approach
+position: 5
 seo_title: Family Therapy for Alcohol and Drug Addiction | Midtown Manhattan
 seo_description: Wholeview Wellness offers family therapy using CRAFT and approach
   that is motivational rather than confrontational. Family members learn how to motivate
