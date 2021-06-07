@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Psychosocial Assessment
 date: 2018-09-07 16:22:00 -04:00
-position: 1
+position: 0
 back_href: "/why-wholeview/how-we-treat/"
 back_title: How We Treat
 layout: tertiary

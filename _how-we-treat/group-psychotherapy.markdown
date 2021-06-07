@@ -3,7 +3,7 @@ title: Group Psychotherapy
 date: 2018-09-07 16:22:00 -04:00
 tags:
 - group therapy
-position: 4
+position: 3
 back_href: "/why-wholeview/how-we-treat/"
 back_title: How We Treat
 seo_title: Group Therapy for Alcohol and Drug Addiction | Midtown Manhattan

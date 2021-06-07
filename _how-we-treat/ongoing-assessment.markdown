@@ -1,7 +1,7 @@
 ---
 title: Ongoing Assessment
 date: 2018-09-07 16:22:00 -04:00
-position: 2
+position: 1
 back_href: "/why-wholeview/how-we-treat/"
 back_title: How We Treat
 layout: tertiary

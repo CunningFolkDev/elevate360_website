@@ -1,7 +1,7 @@
 ---
 title: Individual Psychotherapy
 date: 2018-09-07 16:22:00 -04:00
-position: 3
+position: 2
 seo_title: Individual therapy for alcohol and addiction
 seo_description: Our expert addiction psychologists provide individual therapy for
   addiction and psychological issues using multiple proven therapies including motivational

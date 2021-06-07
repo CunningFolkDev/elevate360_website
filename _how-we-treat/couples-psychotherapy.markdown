@@ -7,6 +7,7 @@ tags:
 - EFT
 - Marital Therapy
 - Infidelity
+position: 4
 seo_title: Couples Therapy for Alcohol and Drug Addiction | Midtown Manhattan
 seo_description: 'The biggest source of addiction relapse is relational distress.
   Wholeview Wellness offers couples therapy using an evidence based treatment approach
