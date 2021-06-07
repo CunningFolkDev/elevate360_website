@@ -1,14 +1,17 @@
 ---
 title: Couples Therapy
 date: 2021-06-07 13:05:00 -04:00
+categories:
+- Couples Therapy
+tags:
+- EFT
+- Marital Therapy
+- Infidelity
 seo_title: Couples Therapy for Alcohol and Drug Addiction | Midtown Manhattan
-seo_description: The biggest source of addiction relapse is relational distress. Wholeview
-  Wellness offers couples therapy using an evidence based treatment approach called
-  Emotionally Focused Therapy (EFT), to help couples and families express their needs
-  to each other in ways that actually leads to fulfillment. We help individuals recognize
-  and find healthy ways to assert their needs. Any past hurts and injuries will be
-  addressed – couples will repair and reconcile, while individuals will heal internally
-  and move towards acceptance and peace.
+seo_description: 'The biggest source of addiction relapse is relational distress.
+  Wholeview Wellness offers couples therapy using an evidence based treatment approach
+  called Emotionally Focused Therapy (EFT), to help couples and families express their
+  needs to each other. '
 seo_keywords: couples therapy for alcohol near me, couples therapy for addiction near
   me, marital therapy for alcohol near me, marital therapy for addiction near me
 ---
