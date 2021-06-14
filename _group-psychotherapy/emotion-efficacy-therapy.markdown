@@ -1,7 +1,7 @@
 ---
 title: Emotion Efficacy Therapy
 date: 2020-01-31 11:29:00 -05:00
-position: 13
+position: 14
 meeting_time: 'Thursdays (12:30PM-2PM) '
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy

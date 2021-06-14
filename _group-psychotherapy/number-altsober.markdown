@@ -1,7 +1,7 @@
 ---
 title: "#Altsober"
 date: 2020-01-16 15:38:00 -05:00
-position: 17
+position: 18
 meeting_time: Wednesdays (12:30PM - 2:00PM)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
