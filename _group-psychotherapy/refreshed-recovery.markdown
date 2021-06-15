@@ -1,7 +1,7 @@
 ---
 title: Refreshed Recovery
 date: 2020-02-28 12:10:00 -05:00
-position: 5
+position: 6
 meeting_time: 'Tuesdays (10:30AM-12:00PM) '
 ---
 

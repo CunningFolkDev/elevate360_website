@@ -1,6 +1,7 @@
 ---
 title: Golden Years
 date: 2021-06-15 10:36:00 -04:00
+position: 2
 meeting_time: Mondays (6:30PM-7:30PM)
 ---
 
