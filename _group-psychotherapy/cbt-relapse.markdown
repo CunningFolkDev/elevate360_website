@@ -1,7 +1,7 @@
 ---
 title: CBT Relapse Prevention Group
 position: 3
-meeting_time: Mondays (12:30pm-2:00pm) and Wednesdays (12:30pm-2:00pm)
+meeting_time: Wednesdays (12:30pm-2:00pm) and Fridays (12:30pm-2:00pm)
 back_href: "/services/group-psychotherapy"
 back_title: Group Psychotherapy
 layout: tertiary
