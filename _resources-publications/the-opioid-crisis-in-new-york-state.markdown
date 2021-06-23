@@ -9,4 +9,4 @@ image: "/uploads/White%20Paper%20Picture.jpg"
 link: https://cdn.ymaws.com/www.nyspa.org/resource/resmgr/docs/NYSPA_White_Paper_Opioid_Epi.pdf
 ---
 
-Dr. Church is President Elect for the Division on Substance Abuse for the New York State Psychological Association (NYSPA) who jointly wrote this white paper on the opioid epidemic.
+Dr. Church is Past President for the Division on Substance Abuse for the New York State Psychological Association (NYSPA) who jointly wrote this white paper on the opioid epidemic.
