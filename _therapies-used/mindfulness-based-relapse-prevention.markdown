@@ -1,7 +1,7 @@
 ---
 title: Mindfulness Based Relapse Prevention (MBRP)
 date: 2018-09-07 16:22:00 -04:00
-position: 3
+position: 4
 seo_title: Mindfulness Based Relapse Prevention | Mindful Drinking
 seo_description: Mindfulness Based Relapse Prevention (MBRP) integrates relapse prevention
   with practices that teach stress reduction and cognitive behavioral therapy.

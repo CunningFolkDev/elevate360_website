@@ -9,7 +9,7 @@ tags:
 - Distress Tolerance
 - Interpersonal Effectiveness
 - Emotion Regulation
-position: 2
+position: 3
 seo_keywords: DBT, Dialectical Behavior Therapy, Skills Groups
 ---
 
