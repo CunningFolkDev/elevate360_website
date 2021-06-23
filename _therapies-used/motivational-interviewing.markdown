@@ -1,12 +1,17 @@
 ---
 title: Motivational Interviewing (MI)
 date: 2018-09-07 16:22:00 -04:00
+tags:
+- MI
+- MET
 position: 1
 seo_title: Motivational Interviewing Training Midtown Manhattan NY
-seo_description: Motivational interviewing course is an evidence-based treatment for
-  addiction that increases the commitment to change.
+seo_description: Motivational interviewing is an evidence-based treatment for addiction
+  that increases the commitment to change.
 seo_keywords: motivational interviewing course, advanced motivational interviewing
-  training, motivational interviewing training ny, motivational interviewing midtown
+  training, motivational interviewing training ny, motivational interviewing midtown,
+  MI therapy in NY, Motivational Interviewing near me, Motivational Interviewing treatment
+  NY
 back_href: "/why-wholeview/therapies-used/"
 back_title: Therapies Used
 layout: tertiary
