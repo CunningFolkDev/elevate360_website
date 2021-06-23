@@ -3,6 +3,7 @@ title: Community Reinforcement Approach and Family Training (CRAFT)
 date: 2021-06-23 16:22:00 -04:00
 tags:
 - CRAFT
+position: 7
 seo_title: Community Reinforcement Approach and Family Training, CRAFT, addiction
   NYC
 seo_description: In repeated clinical studies, the CRAFT approach has been proven
